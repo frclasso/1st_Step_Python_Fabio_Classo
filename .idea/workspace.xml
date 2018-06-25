@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d39ab5d7-f8e6-4a72-954f-4243a9721095" name="Default" comment="" />
+    <list default="true" id="d39ab5d7-f8e6-4a72-954f-4243a9721095" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,65 +13,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/README.md">
+      <file leaf-file-name="30_rstrip_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/30_rstrip_method.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="55" selection-start-line="16" selection-end-line="20" selection-end-column="55" />
+            <state relative-caret-position="90">
+              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="31_split_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/31_split_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="32_splitlines_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/32_splitlines_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="33_startswith_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/33_startswith_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="34_strip_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/34_strip_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="35_swapcase_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/35_swapcase_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="36_title_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/36_title_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="37_upper_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/37_upper_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="38_isdecimal_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/38_isdecimal_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04_for_loop.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/04_for_loop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05_for_else.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/05_for_else.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06_break.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/06_break.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+            <state relative-caret-position="144">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -89,34 +118,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/01_op_aritmeticos.py" />
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/02_op_comparacao.py" />
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/03_op_atribuicao.py" />
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/04_op_logicos.py" />
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/05_op_bitwise.py" />
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/06_op_associacao.py" />
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/06_op_associacao2.py" />
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/07_op_identidade.py" />
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/08_precedencia_operadores.py" />
-        <option value="$PROJECT_DIR$/cap06-estruturas-de-decisao/01_if_statement.py" />
-        <option value="$PROJECT_DIR$/cap06-estruturas-de-decisao/02_else_statement.py" />
-        <option value="$PROJECT_DIR$/cap06-estruturas-de-decisao/03_elif.py" />
-        <option value="$PROJECT_DIR$/cap06-estruturas-de-decisao/04_ifs_aninhados.py" />
-        <option value="$PROJECT_DIR$/cap05-operadores-basicos/README.md" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/01_while.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/02_loop_infinito.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/03_while_else.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/04_for_loop.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/05_for_else.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/06_break.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/07_break_2.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/08_continue.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/09_pass.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/10_iterator_generator.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/11_iter_gen_yield.py" />
-        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md" />
-        <option value="$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/cap08-numeros/01_acos_method.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/02_asin_method.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/03_atan_method.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/04_atan2_method.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/05_cos_method.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/06_cos_hypot.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/07_sin_method.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/08_tan_method.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/09_degrees_method.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/10_radians_method.py" />
+        <option value="$PROJECT_DIR$/cap08-numeros/README.md" />
+        <option value="$PROJECT_DIR$/cap09-strings/README.md" />
+        <option value="$PROJECT_DIR$/cap09-strings/01_triple_quotes.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/05_decode_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/09_find_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/08_expand_tabs_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/07_endswith_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/06_encode_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/04_count_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/03_center_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/02_capitalize_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/10_index_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/11_isalnum_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/21_ljust_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/20_len_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/19_join_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/17_istitle_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/16_isspace_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/15_isnumeric_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/14_islower_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/13_isdigit_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/12_isalpha_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/18_isupper_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/22_lower_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/23_lstrip_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/24_max_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/25_min_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/26_replace_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/27_rfind_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/28_rindex_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/29_rjust_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/30_rstrip_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/31_split_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/31_split_lines_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/33_startswith_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/34_strip_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/35_swapecase_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/35_swapcase_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/36_title_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/37_upper_method.py" />
+        <option value="$PROJECT_DIR$/cap09-strings/38_isdecimal_method.py" />
       </list>
     </option>
   </component>
@@ -126,7 +178,9 @@
     <option name="width" value="1201" />
     <option name="height" value="632" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,6 +192,21 @@
             <path>
               <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap07-estruturas-de-repeticao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap08-numeros" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap09-strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,6 +221,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cap09-strings" />
+      <recent name="$PROJECT_DIR$/cap08-numeros" />
       <recent name="$PROJECT_DIR$/cap06-estruturas-de-decisao" />
       <recent name="$PROJECT_DIR$/cap05-operadores-basicos" />
     </key>
@@ -168,8 +239,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11_iter_gen_yield">
-    <configuration name="07_break_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.38_isdecimal_method">
+    <configuration name="34_strip_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,17 +248,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap09-strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/07_break_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/34_strip_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="08_continue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="35_swapecase_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,17 +266,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap09-strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/08_continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/35_swapcase_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="09_pass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="36_title_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,17 +284,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap09-strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/09_pass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/36_title_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="10_iterator_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="37_upper_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,17 +302,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap09-strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/10_iterator_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/37_upper_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="11_iter_gen_yield" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="38_isdecimal_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,30 +320,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap09-strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/11_iter_gen_yield.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/38_isdecimal_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.07_break_2" />
-      <item itemvalue="Python.08_continue" />
-      <item itemvalue="Python.09_pass" />
-      <item itemvalue="Python.10_iterator_generator" />
-      <item itemvalue="Python.11_iter_gen_yield" />
+      <item itemvalue="Python.34_strip_method" />
+      <item itemvalue="Python.35_swapecase_method" />
+      <item itemvalue="Python.36_title_method" />
+      <item itemvalue="Python.37_upper_method" />
+      <item itemvalue="Python.38_isdecimal_method" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11_iter_gen_yield" />
-        <item itemvalue="Python.10_iterator_generator" />
-        <item itemvalue="Python.09_pass" />
-        <item itemvalue="Python.08_continue" />
-        <item itemvalue="Python.07_break_2" />
+        <item itemvalue="Python.38_isdecimal_method" />
+        <item itemvalue="Python.37_upper_method" />
+        <item itemvalue="Python.36_title_method" />
+        <item itemvalue="Python.35_swapecase_method" />
+        <item itemvalue="Python.34_strip_method" />
       </list>
     </recent_temporary>
   </component>
@@ -291,12 +362,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="-11" width="1237" height="812" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3295129" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41117477" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41091955" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -329,288 +399,358 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="55" lean-forward="true" selection-start-line="16" selection-end-line="20" selection-end-column="55" />
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/04_for_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/05_for_else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/06_break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/03_elif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/04_ifs_aninhados.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/03_elif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/04_ifs_aninhados.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/01_op_aritmeticos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/02_op_comparacao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/05_op_bitwise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/06_op_associacao2.py">
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/01_acos_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/06_op_associacao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/04_op_logicos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/03_op_atribuicao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/08_precedencia_operadores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/07_op_identidade.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/02_else_statement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/03_elif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/04_ifs_aninhados.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/01_if_statement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/01_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/02_loop_infinito.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/03_while_else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/04_for_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/05_for_else.py">
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/07_break_2.py">
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/10_radians_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/09_degrees_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/08_tan_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/07_sin_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/06_hypot_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/05_cos_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/04_atan2_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/03_atan_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/02_asin_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/01_triple_quotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/05_decode_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/09_find_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/08_expand_tabs_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/06_encode_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/04_count_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/07_endswith_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/03_center_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/08_continue.py">
+    <entry file="file://$PROJECT_DIR$/cap09-strings/02_capitalize_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/09_pass.py">
+    <entry file="file://$PROJECT_DIR$/cap09-strings/10_index_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/10_iterator_generator.py">
+    <entry file="file://$PROJECT_DIR$/cap09-strings/11_isalnum_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" lean-forward="true" selection-start-line="14" selection-end-line="19" />
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/11_iter_gen_yield.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/06_break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md">
+    <entry file="file://$PROJECT_DIR$/cap09-strings/17_istitle_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md">
+    <entry file="file://$PROJECT_DIR$/cap09-strings/16_isspace_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/README.md">
+    <entry file="file://$PROJECT_DIR$/cap09-strings/15_isnumeric_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="55" selection-start-line="16" selection-end-line="20" selection-end-column="55" />
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/cap09-strings/14_islower_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/13_isdigit_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/12_isalpha_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/18_isupper_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/19_join_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/20_len_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/21_ljust_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/22_lower_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/23_lstrip_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/24_max_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/25_min_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/26_replace_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/27_rfind_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/28_rindex_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/29_rjust_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/30_rstrip_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/31_split_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/32_splitlines_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/33_startswith_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/34_strip_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/35_swapcase_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/36_title_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/37_upper_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/38_isdecimal_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
