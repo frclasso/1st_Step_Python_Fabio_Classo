@@ -15,4 +15,5 @@ Programação Python da **JCAVI** Treinamentos em T.I.
 https://www.jcavitreinamentos.com.br/
 
 Contatos: frclasso@gmail.com
+
 https://www.linkedin.com/in/fabio-reis-classo-46881425/
