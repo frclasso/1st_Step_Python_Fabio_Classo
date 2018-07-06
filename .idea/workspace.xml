@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d39ab5d7-f8e6-4a72-954f-4243a9721095" name="Default" comment="" />
+    <list default="true" id="d39ab5d7-f8e6-4a72-954f-4243a9721095" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions1-working.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions1_ValueError.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions2_ZeroDivisionError.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions3_UnknowError.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions4_inclcusive_range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions_IOError.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/lines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/myError.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/myIterator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/try_except1.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,53 +29,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hello_world.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap03-elementos-de-sintaxe-basica/hello_world.py">
+      <file leaf-file-name="05_obtendo_calendario_do_mes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/05_obtendo_calendario_do_mes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216" />
+            <state relative-caret-position="108">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01_variables.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/01_variables.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="02_string_variables.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/02_string_variables.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="03_list_variables.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/03_list_variables.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="04_tuple_variables.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/04_tuple_variables.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="05_dic_variables.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/05_dic_variables.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="06_main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/06_main.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="constant.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/constant.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="07_format_string.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/07_format_string.py">
+      <file leaf-file-name="09_ctime_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/09_ctime_method.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="216">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_gmtime_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/10_gmtime_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12_mktime_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/12_mktime_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13_sleep_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/13_sleep_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14_strftime_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/14_strftime_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15_strptime_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/15_strptime_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16_time_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/16_time_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17_tzset_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/17_tzset_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="e#205#216#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -71,30 +131,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/cap13-date-and-time</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cap04-tipos-variaveis/05_dic_variables.py" />
-        <option value="$PROJECT_DIR$/cap04-tipos-variaveis/constant.py" />
-        <option value="$PROJECT_DIR$/cap04-tipos-variaveis/07_main.py" />
-        <option value="$PROJECT_DIR$/cap04-tipos-variaveis/06_main.py" />
-        <option value="$PROJECT_DIR$/cap04-tipos-variaveis/README.md" />
-        <option value="$PROJECT_DIR$/cap10-listas/01_criando_listas.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/02_update_listas.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/03_delete_list_elements.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/04_len_method.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/05_max_method.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/06_min_method.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/07_the_list_method.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/08_append_method.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/09_count_method.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/10_extend_method.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/11_index_method.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/12_insert_method.py" />
-        <option value="$PROJECT_DIR$/cap10-listas/13_pop_method.py" />
         <option value="$PROJECT_DIR$/cap10-listas/14_remove_method.py" />
         <option value="$PROJECT_DIR$/cap10-listas/15_reverse_method.py" />
         <option value="$PROJECT_DIR$/cap10-listas/16_sort_method.py" />
@@ -128,6 +175,24 @@
         <option value="$PROJECT_DIR$/cap12-dicionarios/README.md" />
         <option value="$PROJECT_DIR$/cap11-tuplas/README.md" />
         <option value="$PROJECT_DIR$/cap04-tipos-variaveis/07_format_string.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/01_datetime_to_tcks.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/02_local_time.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/03_current_time.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/04_formatted_time.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/05_obtendo_calendario_do_mes.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/06_altzone_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/07_asctime_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/08_timeclock_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/09_ctime_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/10_gmtime_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/11_localtime_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/12_mktime_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/13_sleep_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/14_strftime_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/15_strptime_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/16_time_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/17_tzset_method.py" />
+        <option value="$PROJECT_DIR$/cap13-date-and-time/README.md" />
       </list>
     </option>
   </component>
@@ -155,12 +220,12 @@
             <path>
               <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap03-elementos-de-sintaxe-basica" type="462c0819:PsiDirectoryNode" />
+              <item name="cap16-arquivos-io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap04-tipos-variaveis" type="462c0819:PsiDirectoryNode" />
+              <item name="cap17-tratamento-de-excessoes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,15 +239,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cap08-numeros/extras" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cap13-date-and-time" />
       <recent name="$PROJECT_DIR$/cap11-tuplas" />
       <recent name="$PROJECT_DIR$/cap10-listas" />
       <recent name="$PROJECT_DIR$/cap04-tipos-variaveis" />
       <recent name="$PROJECT_DIR$/cap09-strings" />
-      <recent name="$PROJECT_DIR$/cap08-numeros" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras" />
+      <recent name="$PROJECT_DIR$/cap08-numeros/extras" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -197,8 +263,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.07_format_string">
-    <configuration name="07_format_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.17_tzset_method">
+    <configuration name="13_sleep_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,17 +272,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap04-tipos-variaveis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap13-date-and-time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap04-tipos-variaveis/07_format_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap13-date-and-time/13_sleep_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="13_keys_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14_strftime_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,17 +290,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap12-dicionarios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap13-date-and-time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap12-dicionarios/13_keys_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap13-date-and-time/14_strftime_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="14_setdefault_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15_strptime_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,17 +308,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap12-dicionarios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap13-date-and-time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap12-dicionarios/14_setdefault_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap13-date-and-time/15_strptime_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="15_update_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16_time_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,17 +326,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap12-dicionarios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap13-date-and-time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap12-dicionarios/15_update_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap13-date-and-time/16_time_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="16_values_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17_tzset_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,30 +344,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap12-dicionarios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap13-date-and-time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap12-dicionarios/16_values_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap13-date-and-time/17_tzset_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.13_keys_method" />
-      <item itemvalue="Python.14_setdefault_method" />
-      <item itemvalue="Python.15_update_method" />
-      <item itemvalue="Python.16_values_method" />
-      <item itemvalue="Python.07_format_string" />
+      <item itemvalue="Python.13_sleep_method" />
+      <item itemvalue="Python.14_strftime_method" />
+      <item itemvalue="Python.15_strptime_method" />
+      <item itemvalue="Python.16_time_method" />
+      <item itemvalue="Python.17_tzset_method" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_format_string" />
-        <item itemvalue="Python.16_values_method" />
-        <item itemvalue="Python.15_update_method" />
-        <item itemvalue="Python.14_setdefault_method" />
-        <item itemvalue="Python.13_keys_method" />
+        <item itemvalue="Python.17_tzset_method" />
+        <item itemvalue="Python.16_time_method" />
+        <item itemvalue="Python.15_strptime_method" />
+        <item itemvalue="Python.14_strftime_method" />
+        <item itemvalue="Python.13_sleep_method" />
       </list>
     </recent_temporary>
   </component>
@@ -319,13 +385,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="-11" width="1237" height="812" extended-state="6" />
-    <editor active="true" />
+    <frame x="45" y="-4" width="1235" height="804" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21295546" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3295129" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41091955" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41091955" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -338,7 +404,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -356,62 +421,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cap10-listas/10_extend_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap10-listas/11_index_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap10-listas/12_insert_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap10-listas/13_pop_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap10-listas/14_remove_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap10-listas/15_reverse_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="52" selection-start-line="5" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap10-listas/16_sort_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap11-tuplas/01_criando_tuplas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -608,15 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap08-numeros/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-108" />
@@ -634,36 +634,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap03-elementos-de-sintaxe-basica/hello_world.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/01_variables.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/02_string_variables.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/03_list_variables.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/04_tuple_variables.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/05_dic_variables.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/06_main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/constant.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/07_format_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap03-elementos-de-sintaxe-basica/hello_world.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/01_datetime_to_tcks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/02_local_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/03_current_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/04_formatted_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/06_altzone_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/11_localtime_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/07_asctime_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/05_obtendo_calendario_do_mes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/08_timeclock_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/09_ctime_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/10_gmtime_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/12_mktime_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/13_sleep_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/14_strftime_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/15_strptime_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/16_time_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/17_tzset_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#205#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
         </state>
       </provider>
     </entry>
