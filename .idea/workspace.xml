@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d39ab5d7-f8e6-4a72-954f-4243a9721095" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions1-working.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions1_ValueError.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions2_ZeroDivisionError.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions3_UnknowError.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions4_inclcusive_range.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exceptions_IOError.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/exemplo_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/lines.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/myError.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/myIterator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/try_except1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap09-strings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap09-strings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap13-date-and-time/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap13-date-and-time/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="05_obtendo_calendario_do_mes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/05_obtendo_calendario_do_mes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="09_ctime_method.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/09_ctime_method.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="10_gmtime_method.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cap13-date-and-time/10_gmtime_method.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,11 +80,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            <state relative-caret-position="360">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -142,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cap10-listas/14_remove_method.py" />
         <option value="$PROJECT_DIR$/cap10-listas/15_reverse_method.py" />
         <option value="$PROJECT_DIR$/cap10-listas/16_sort_method.py" />
         <option value="$PROJECT_DIR$/cap10-listas/README.md" />
@@ -193,6 +177,7 @@
         <option value="$PROJECT_DIR$/cap13-date-and-time/16_time_method.py" />
         <option value="$PROJECT_DIR$/cap13-date-and-time/17_tzset_method.py" />
         <option value="$PROJECT_DIR$/cap13-date-and-time/README.md" />
+        <option value="$PROJECT_DIR$/cap09-strings/README.md" />
       </list>
     </option>
   </component>
@@ -216,6 +201,16 @@
             <path>
               <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap09-strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap10-listas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
@@ -386,6 +381,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="-4" width="1235" height="804" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21295546" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -603,20 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-108" />
@@ -772,8 +754,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
