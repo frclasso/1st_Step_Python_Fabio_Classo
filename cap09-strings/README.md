@@ -26,6 +26,7 @@ Strings em Python
  - join()
  - len()
  - ljust()
+
  etc
 
 
