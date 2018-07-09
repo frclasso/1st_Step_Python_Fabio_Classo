@@ -1,2 +1,2 @@
 import os
-os.remove('foo2.txt')
+os.remove('foo3.txt')

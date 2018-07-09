@@ -1,2 +1,2 @@
 import os
-os.rename('foo.txt', 'foo2.txt')
+os.rename('foo.txt', 'foo3.txt')

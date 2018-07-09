@@ -1,4 +1,4 @@
-fo = open('foo2.txt', 'r+')
+fo = open('foo3.txt', 'r+')
 print('Nome: ',fo.name)
 seq = ['setima linha\n','oitava linha']
 fo.seek(0, 2)
