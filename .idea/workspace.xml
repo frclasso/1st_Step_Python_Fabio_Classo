@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d39ab5d7-f8e6-4a72-954f-4243a9721095" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exceptions1-working.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exemplo_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exemplo_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exemplo_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exemplo_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exemplo_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/try_except1.py" beforeDir="false" afterPath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/try_except1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -91,8 +83,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="396">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -699,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="396">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
