@@ -20,7 +20,7 @@ Caso tenha algum problema para baixar a apostila voce pode entrar em contato.
 Esse material foi desenvolvido por **Fabio R. Classo** para o curso de Linguagem de
 Programação Python da **JCAVI** Treinamentos em T.I.
 
-![Image](/home/fabio/Desktop/estudo_ti/Python/apostila_python_modulo_/jcavi.png)
+![Image](apostila_python_modulo_1/jcavi.png)
 
 https://www.jcavitreinamentos.com.br/
 
