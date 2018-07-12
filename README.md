@@ -17,6 +17,25 @@ fornecida aos alunos do curso, a mesma pode ser baixada no link abaixo:
 Caso tenha algum problema para baixar a apostila  entre em contato por favor.
 
 
+Organizacao do curso:
+--------------------
+- Capitulo 03  [Elementos de sintaxe basica](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap03-elementos-de-sintaxe-basica)
+- Capitulo 04 [Tipos variaveis](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap04-tipos-variaveis#tipos-variaveis--em-python)
+- Capitulo 05 [Operadores Basicos](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap05-operadores-basicos#operadores-basicos-em-python)
+- Capitulo 06 [Estruturas de decisao](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap06-estruturas-de-decisao#estruturas-de-decisao)
+- Capitulo 07 [Estruturas de repeticao](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap07-estruturas-de-repeticao#estruturas-de-repeti%C3%A7%C3%A3o)
+- Capitulo 08 [Numeros](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap08-numeros#numeros-em-python)
+- Capitulo 09 [Strings](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap09-strings)
+- Capitulo 10 [Listas](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap10-listas)
+- Capitulo 11 [Tuplas](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap11-tuplas)
+- Capitulo 12 [Dicionarios](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap12-dicionarios)
+- Capitulo 13 [Date and Time](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap13-date-and-time)
+- Capitulo 14 [Funcoes](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap14-funcoes)
+- Capitulo 15 [Modulos](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap15-modulos)
+- Capitulo 16 [Arquivos - Files i/o](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap16-arquivos-io)
+- Capitulo 17 [Tratamento de excecoes](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap17-tratamento-de-excessoes)
+
+
 Esse material foi desenvolvido por **Fabio R. Classo** para o curso de Linguagem de
 Programação Python da **JCAVI** Treinamentos em T.I.
 
