@@ -30,10 +30,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap08-numeros/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="601">
+              <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap11-tuplas/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="547">
+              <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap12-dicionarios/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="561">
+              <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -42,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/cap14-funcoes/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
-              <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
+              <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -50,8 +95,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cap15-modulos/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="42" column="70" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+            <state relative-caret-position="561">
+              <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -60,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/cap16-arquivos-io/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
-              <caret line="67" column="70" selection-start-line="67" selection-start-column="70" selection-end-line="67" selection-end-column="70" />
+              <caret line="67" column="74" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -68,8 +113,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+            <state relative-caret-position="615">
+              <caret line="41" column="74" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -171,6 +216,51 @@
             <path>
               <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap06-estruturas-de-decisao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap07-estruturas-de-repeticao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap08-numeros" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap09-strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap10-listas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap11-tuplas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap12-dicionarios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap13-date-and-time" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+              <item name="cap14-funcoes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
@@ -547,101 +637,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap11-tuplas/README.md">
+    <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="39" column="70" selection-start-line="39" selection-start-column="70" selection-end-line="39" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="47" column="70" selection-start-line="47" selection-start-column="70" selection-end-line="47" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap08-numeros/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="70" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="70" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+        <state relative-caret-position="558">
+          <caret line="31" column="74" lean-forward="true" selection-start-line="31" selection-end-line="31" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap05-operadores-basicos/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
-          <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+          <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap04-tipos-variaveis/README.md">
+    <entry file="file://$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="70" lean-forward="true" selection-start-line="30" selection-end-line="31" selection-end-column="70" />
+        <state relative-caret-position="432">
+          <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="74" lean-forward="true" selection-start-line="28" selection-end-line="28" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap11-tuplas/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap12-dicionarios/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="47" column="70" selection-start-line="47" selection-start-column="70" selection-end-line="47" selection-end-column="70" />
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="561">
+          <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap14-funcoes/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
+          <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap15-modulos/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="42" column="70" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+        <state relative-caret-position="561">
+          <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap16-arquivos-io/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="67" column="70" selection-start-line="67" selection-start-column="70" selection-end-line="67" selection-end-column="70" />
+          <caret line="67" column="74" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+        <state relative-caret-position="615">
+          <caret line="41" column="74" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
         </state>
       </provider>
     </entry>
