@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d39ab5d7-f8e6-4a72-954f-4243a9721095" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/cap04-tipos-variaveis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap04-tipos-variaveis/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap05-operadores-basicos/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap05-operadores-basicos/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap08-numeros/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap08-numeros/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap09-strings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap09-strings/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap10-listas/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap10-listas/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap11-tuplas/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap11-tuplas/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap12-dicionarios/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap12-dicionarios/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap13-date-and-time/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap13-date-and-time/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap14-funcoes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap14-funcoes/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap15-modulos/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap15-modulos/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap16-arquivos-io/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap16-arquivos-io/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/apostila_nova_python_modulo_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/apostila_nova_python_modulo_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,92 +21,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap08-numeros/README.md">
+      <file leaf-file-name="exceptions2_ZeroDivisionError.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exceptions2_ZeroDivisionError.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
+      <file leaf-file-name="ZeroDivisionError.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+            <state relative-caret-position="228">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+      <file leaf-file-name="ValueError.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+            <state relative-caret-position="133">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap11-tuplas/README.md">
+      <file leaf-file-name="ValueError2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+            <state relative-caret-position="190">
+              <caret line="10" column="83" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap12-dicionarios/README.md">
+      <file leaf-file-name="jogo_da_advinhacao.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap14-funcoes/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap15-modulos/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap16-arquivos-io/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="67" column="74" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="74" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
+            <state relative-caret-position="370">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -141,9 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cap16-arquivos-io/21_write_method.py" />
-        <option value="$PROJECT_DIR$/cap16-arquivos-io/foo2.txt" />
-        <option value="$PROJECT_DIR$/cap16-arquivos-io/22_writelines_method.py" />
         <option value="$PROJECT_DIR$/cap16-arquivos-io/23_os_access_method.py" />
         <option value="$PROJECT_DIR$/cap16-arquivos-io/24_os_chmod.py" />
         <option value="$PROJECT_DIR$/cap16-arquivos-io/25_os_chown_method.py" />
@@ -192,14 +136,16 @@
         <option value="$PROJECT_DIR$/cap15-modulos/README.md" />
         <option value="$PROJECT_DIR$/cap16-arquivos-io/README.md" />
         <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py" />
+        <option value="$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="53" />
-    <option name="y" value="-4" />
-    <option name="width" value="1201" />
-    <option name="height" value="632" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -209,7 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,73 +165,19 @@
             <path>
               <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap06-estruturas-de-decisao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap07-estruturas-de-repeticao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap08-numeros" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap09-strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap10-listas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap11-tuplas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap12-dicionarios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap13-date-and-time" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap14-funcoes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap15-modulos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap16-arquivos-io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
-              <item name="cap17-tratamento-de-excessoes" type="462c0819:PsiDirectoryNode" />
+              <item name="ATIVIDADES" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -314,25 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02_assert">
-    <configuration name="01_raise_exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="apostila_nova_python_modulo_1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/01_raise_exception.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.jogo_da_advinhacao">
     <configuration name="02_assert" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -369,7 +242,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exceptions_IOError" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ValueError2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,13 +254,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exceptions_IOError.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="try_except1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ZeroDivisionError" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -399,26 +272,44 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/try_except1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="jogo_da_advinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="apostila_nova_python_modulo_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ATIVIDADES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.try_except1" />
-      <item itemvalue="Python.01_raise_exception" />
       <item itemvalue="Python.02_assert" />
-      <item itemvalue="Python.exceptions_IOError" />
       <item itemvalue="Python.03_FileNotFoundError" />
+      <item itemvalue="Python.ZeroDivisionError" />
+      <item itemvalue="Python.ValueError2" />
+      <item itemvalue="Python.jogo_da_advinhacao" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.jogo_da_advinhacao" />
+        <item itemvalue="Python.ValueError2" />
+        <item itemvalue="Python.ZeroDivisionError" />
         <item itemvalue="Python.02_assert" />
         <item itemvalue="Python.03_FileNotFoundError" />
-        <item itemvalue="Python.exceptions_IOError" />
-        <item itemvalue="Python.01_raise_exception" />
-        <item itemvalue="Python.try_except1" />
       </list>
     </recent_temporary>
   </component>
@@ -436,13 +327,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="-11" width="1237" height="812" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24861" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3295129" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44109195" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27355623" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -478,6 +369,76 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap11-tuplas/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap12-dicionarios/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap14-funcoes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap15-modulos/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap16-arquivos-io/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="74" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="74" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
@@ -616,13 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/try_except1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -667,22 +621,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cap08-numeros/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="532">
           <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
+        <state relative-caret-position="893">
           <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+    <entry file="file://$PROJECT_DIR$/cap12-dicionarios/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+        <state relative-caret-position="893">
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap14-funcoes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap15-modulos/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap16-arquivos-io/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="67" column="74" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="74" />
         </state>
       </provider>
     </entry>
@@ -693,45 +682,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap12-dicionarios/README.md">
+    <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        <state relative-caret-position="581">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exceptions2_ZeroDivisionError.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap14-funcoes/README.md">
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
+        <state relative-caret-position="228">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap15-modulos/README.md">
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap16-arquivos-io/README.md">
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="67" column="74" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="74" />
+        <state relative-caret-position="190">
+          <caret line="10" column="83" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md">
+    <entry file="file://$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="74" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
+        <state relative-caret-position="370">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
