@@ -13,7 +13,11 @@ sub='i'
 
 print ("str.count('i') : ", str.count(sub))
 
-
 sub='exam'
-
 print ("str.count('exam', 10, 40) : ", str.count(sub,10,40))
+print()
+
+# s.count(<sub>[,<start>[,<end>]]) , conta a ocorrencia de uma substring em uma string alvo.
+# print('foo goo moo'.count('oo'))
+# print('foo goo moo'.count('oo', 0, 8))
+# print()
