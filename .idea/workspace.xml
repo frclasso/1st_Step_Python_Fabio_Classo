@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d39ab5d7-f8e6-4a72-954f-4243a9721095" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cap09-strings/02_capitalize_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/cap09-strings/02_capitalize_method.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cap09-strings/03_center_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/cap09-strings/03_center_method.py" afterDir="false" />
@@ -35,6 +36,14 @@
       <change beforePath="$PROJECT_DIR$/cap09-strings/35_swapcase_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/cap09-strings/35_swapcase_method.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cap09-strings/36_title_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/cap09-strings/36_title_method.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cap09-strings/37_upper_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/cap09-strings/37_upper_method.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/apostila_nova_python_modulo_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/apostila_nova_python_modulo_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,38 +54,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="03_center_method.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cap09-strings/03_center_method.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="301">
               <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+=======
+      <file leaf-file-name="exceptions2_ZeroDivisionError.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exceptions2_ZeroDivisionError.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="42_spartition_method.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cap09-strings/42_spartition_method.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+=======
+      <file leaf-file-name="ZeroDivisionError.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="32_splitlines_method.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cap09-strings/32_splitlines_method.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="370">
               <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+=======
+      <file leaf-file-name="ValueError.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="43_byte_objects.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cap09-strings/43_byte_objects.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="370">
               <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+=======
+      <file leaf-file-name="ValueError2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="83" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jogo_da_advinhacao.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
             </state>
           </provider>
         </entry>
@@ -103,12 +153,58 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/23_os_access_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/24_os_chmod.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/25_os_chown_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/26_os_close_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/27_fchdir_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/28_os_fchmod_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/29_os_fchown_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/30_os_fstat_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/31_os_getcwd_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/32_os_listdir_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/33_os_makedirs_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/34_os_mkdir_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/OS_Flags.txt" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/35_os_remove_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/36_removedir_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/37_os_symlink_method.py" />
+        <option value="$PROJECT_DIR$/cap16-arquivos-io/38_os_walk_method.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/01_assert.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/02_try_except.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/03_try_except.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/04_try_finally.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/05_try_finally_2.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/06_exception_as_argument.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/06_argumentos_de_uma_excecao.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/07_raising_exception.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/08_excessoes_definidas_usuarios.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/BaseException_hierarchy.txt" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/try_except1.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/01_raise_exception.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/assert.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/03_FileNotFoundError.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/02_assert.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/cap04-tipos-variaveis/README.md" />
+        <option value="$PROJECT_DIR$/cap05-operadores-basicos/README.md" />
+        <option value="$PROJECT_DIR$/cap06-estruturas-de-decisao/README.md" />
+        <option value="$PROJECT_DIR$/cap07-estruturas-de-repeticao/README.md" />
+        <option value="$PROJECT_DIR$/cap08-numeros/README.md" />
+        <option value="$PROJECT_DIR$/cap09-strings/README.md" />
+        <option value="$PROJECT_DIR$/cap10-listas/README.md" />
+        <option value="$PROJECT_DIR$/cap11-tuplas/README.md" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
         <option value="$PROJECT_DIR$/cap12-dicionarios/README.md" />
         <option value="$PROJECT_DIR$/cap13-date-and-time/README.md" />
         <option value="$PROJECT_DIR$/cap14-funcoes/README.md" />
         <option value="$PROJECT_DIR$/cap15-modulos/README.md" />
         <option value="$PROJECT_DIR$/cap16-arquivos-io/README.md" />
         <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/cap16-arquivos-io/extras/teste_openpyxl.py" />
         <option value="$PROJECT_DIR$/cap10-listas/extras/extend.py" />
         <option value="$PROJECT_DIR$/cap10-listas/extras/insert.py" />
@@ -154,14 +250,18 @@
         <option value="$PROJECT_DIR$/cap09-strings/31_split_method.py" />
         <option value="$PROJECT_DIR$/cap09-strings/32_splitlines_method.py" />
         <option value="$PROJECT_DIR$/cap09-strings/43_byte_objects.py" />
+=======
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py" />
+        <option value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py" />
+        <option value="$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="53" />
-    <option name="y" value="-4" />
-    <option name="width" value="1201" />
-    <option name="height" value="632" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -171,7 +271,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,6 +281,7 @@
             <path>
               <item name="apostila_python_modulo_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="cap09-strings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -189,17 +289,21 @@
               <item name="apostila_python_modulo_1" type="462c0819:PsiDirectoryNode" />
               <item name="cap09-strings" type="462c0819:PsiDirectoryNode" />
               <item name="extras" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="ATIVIDADES" type="462c0819:PsiDirectoryNode" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -228,8 +332,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.43_byte_objects">
     <configuration name="19_join_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.jogo_da_advinhacao">
+    <configuration name="02_assert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,13 +350,21 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/19_join_method.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/02_assert.py" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="31_split_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="03_FileNotFoundError" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,13 +376,21 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/31_split_method.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/03_FileNotFoundError.py" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="32_splitlines_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="ValueError2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,13 +402,21 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/32_splitlines_method.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="42_spartition_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="ZeroDivisionError" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,13 +428,21 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/42_spartition_method.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="43_byte_objects" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="jogo_da_advinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <module name="apostila_nova_python_modulo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,17 +450,26 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap09-strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap09-strings/43_byte_objects.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ATIVIDADES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Python.19_join_method" />
       <item itemvalue="Python.42_spartition_method" />
       <item itemvalue="Python.31_split_method" />
@@ -333,6 +483,21 @@
         <item itemvalue="Python.31_split_method" />
         <item itemvalue="Python.42_spartition_method" />
         <item itemvalue="Python.19_join_method" />
+=======
+      <item itemvalue="Python.02_assert" />
+      <item itemvalue="Python.03_FileNotFoundError" />
+      <item itemvalue="Python.ZeroDivisionError" />
+      <item itemvalue="Python.ValueError2" />
+      <item itemvalue="Python.jogo_da_advinhacao" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jogo_da_advinhacao" />
+        <item itemvalue="Python.ValueError2" />
+        <item itemvalue="Python.ZeroDivisionError" />
+        <item itemvalue="Python.02_assert" />
+        <item itemvalue="Python.03_FileNotFoundError" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       </list>
     </recent_temporary>
   </component>
@@ -350,13 +515,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="-11" width="1237" height="812" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21538462" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3295129" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34195402" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24861" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3295129" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27355623" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -392,7 +564,81 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+=======
+    <entry file="file://$PROJECT_DIR$/cap08-numeros/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap09-strings/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap11-tuplas/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap12-dicionarios/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap14-funcoes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap15-modulos/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap16-arquivos-io/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="74" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="74" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="633">
           <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
@@ -597,6 +843,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/cap09-strings/12_isalpha_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -605,6 +852,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap09-strings/22_lower_method.py">
+=======
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/try_except1.py">
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
@@ -655,13 +905,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cap09-strings/34_strip_method.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="198">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+=======
+        <state relative-caret-position="532">
+          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap09-strings/30_rstrip_method.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="234">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
@@ -671,6 +927,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+=======
+        <state relative-caret-position="893">
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap12-dicionarios/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap13-date-and-time/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap14-funcoes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="74" selection-start-line="55" selection-start-column="74" selection-end-line="55" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap15-modulos/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap16-arquivos-io/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="67" column="74" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="74" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
         </state>
       </provider>
     </entry>
@@ -681,6 +983,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/cap09-strings/23_lstrip_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -734,6 +1037,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+=======
+    <entry file="file://$PROJECT_DIR$/cap10-listas/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/exceptions2_ZeroDivisionError.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ZeroDivisionError.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap17-tratamento-de-excessoes/extras/ValueError2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="83" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATIVIDADES/jogo_da_advinhacao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+>>>>>>> c83628da45b3fe3e9da6742ffaf70422aebddcda
         </state>
       </provider>
     </entry>
