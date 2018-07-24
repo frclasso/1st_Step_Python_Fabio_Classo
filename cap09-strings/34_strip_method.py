@@ -1,11 +1,14 @@
 #!/usr/bin/python3
-str = "*****this is string example....wow!!!*****"
-print (str.strip( '*' ))
 
-"""The strip() method returns a copy of the string in which all chars have been stripped from 
-the beginning and the end of the string (default whitespace characters).
-
-Following is the syntax for strip() method −
-str.strip([chars]);
-
+"""Equivale a invocar lstrip() e rstrip() sucessivamente.
+   Sintaxe: str.strip([chars]);
 """
+
+str = "*****this is string example....wow!!!*****"
+print(str.strip( '*' ))
+print()
+
+s = '    foo bar baz\t\t\t'
+print(s.lstrip().rstrip())
+
+print('www.realpython.com'.strip('w.com'))

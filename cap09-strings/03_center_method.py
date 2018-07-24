@@ -13,3 +13,7 @@ Parameters
 
 str = "this is string example....wow!!!"
 print ("str.center(40, 'a') : ", str.center(40, 'a'))
+print()
+
+print('foo'.center(10))
+print('bar'.center(10, '-'))

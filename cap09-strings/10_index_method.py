@@ -6,6 +6,9 @@ but raises an exception if sub is not found.
 """
 str1 = "this is string example....wow!!!"
 str2 = "exam"
-print (str1.index(str2))
-print (str1.index(str2, 10))
-print (str1.index(str2, 20)) # ERRO: ValueError: substring not found
+print(str1.index(str2))
+print(str1.index(str2, 10))
+#print(str1.index(str2, 20)) # ERRO: ValueError: substring not found
+print()
+
+print('foo bar qux grault'.index('qux'))
