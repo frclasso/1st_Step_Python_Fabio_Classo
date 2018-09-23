@@ -3,7 +3,7 @@
 
 a = 20
 b = 20
-print('Line 1','a=',a,':',id(a), 'b=',b,':',id(b))
+print('Line 1', 'a=', a, ':', id(a), 'b=', b,':', id(b))
 
 if a is b:
     print("Line 2 - a and b have same identity")

@@ -6,12 +6,12 @@ Tipo de operadores
 
 A linguagem Python suporta os seguintes tipos de operadores:
 
-- Operadores aritmeticos(Arithmetic Operators)
-- Operadores de comparacao (Comparison Operators)
-- Operadores de atribuicao (Assignment operators)
-- Operadores Logicos(Logical operators)
+- Operadores aritméticos(Arithmetic Operators)
+- Operadores de comparação (Comparison Operators)
+- Operadores de atribuição (Assignment operators)
+- Operadores Lógicos(Logical operators)
 - Operadores bit a bit (Bitwise Operators)
-- Operadores de associacao (Membership Operators)
+- Operadores de associação (Membership Operators)
 - Operadores de identidade(Identity Operators)
 
 
