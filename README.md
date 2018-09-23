@@ -12,7 +12,7 @@ para os mesmos.
 Grande parte dos exemplos e exercicio contidos neste repositorio estao presentes na apostila
 fornecida aos alunos do curso, a mesma pode ser baixada no link abaixo:
 
- - https://drive.google.com/open?id=1IHD4ySrxkxN2iqKJ84h06FYZXbAY4iop 
+ - https://drive.google.com/open?id=1d1GcjenjelR5j3TuYEOmeEOdK18LjeUs 
  
 
 Caso tenha algum problema para baixar a apostila  entre em contato por favor.
