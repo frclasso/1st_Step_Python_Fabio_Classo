@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 x = 'Hello world'
-y = {1:'a',2:'b'}
+y = {1: 'a', 2: 'b'}
 
 # Output: True
 print('H' in x)
