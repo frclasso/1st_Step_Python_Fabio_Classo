@@ -1,8 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.0-pre1" />
-    <option name="selectedTheme" value="PALENIGHT" />
-    <option name="accentColor" value="ab47bc" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="accentColor" value="84ffff" />
     <option name="userId" value="66a83a30:1660bee5502:-8000" />
     <option name="isHighContrast" value="true" />
     <option name="overrideAccentColor" value="true" />

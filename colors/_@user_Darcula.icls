@@ -3,7 +3,7 @@
     <property name="created">2018-09-24T11:14:44</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-25T13:38:52</property>
+    <property name="modified">2018-09-27T17:54:41</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -22,7 +22,7 @@
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="676e95" />
+    <option name="FILESTATUS_SUPPRESSED" value="717cb4" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
