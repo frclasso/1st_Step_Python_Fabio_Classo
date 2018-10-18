@@ -4,8 +4,6 @@
 
 a = True
 b = False
-x = ('bear', 'bunny', 'tree', 'sky','rain')
-y = 'bear'
 
 if a and b:   #True and False = False
     print('Expression is true')

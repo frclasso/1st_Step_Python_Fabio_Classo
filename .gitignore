@@ -92,3 +92,14 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+colors.scheme.xml
+debugger.xml
+editor.xml
+find.xml
+github_settings.xml
+ide.general.xml
+markdown.xml
+material_custom_theme.xml
+material_theme.xml
+rainbow_brackets.xml
+ui_inf.xml

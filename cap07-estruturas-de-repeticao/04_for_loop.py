@@ -5,7 +5,5 @@ for letter in 'Python': # traversal of a string sequence
 print()
 
 fruits = ['banana', 'apple', 'mango']
-
-for fruit in fruits: # traversal of List sequence
-    print('Current fruit :', fruit)
-print("Good bye!")
+for index in range(len(fruits)):
+    print("Current fruit is: ",index, fruits[index])
