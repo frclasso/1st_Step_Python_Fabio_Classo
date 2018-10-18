@@ -1,0 +1,12 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.9.2" />
+    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="2979ff" />
+    <option name="userId" value="66a83a30:1660bee5502:-8000" />
+    <option name="isHighContrast" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
+  </component>
+</application>
