@@ -21,11 +21,18 @@ para trabalhar com tempos, e para converter entre representações. A função t
 () retorna a hora atual do sistema em ticks desde as 00:00, 1 de janeiro de
 1970(época).
 
-Conversores Datetime to Ticks:
+Mais sobre:
+-----------
 
+https://en.wikipedia.org/wiki/Unix_time
+https://en.wikipedia.org/wiki/Year_2038_problem
+
+
+Conversores Datetime to Ticks:
+------------------------------
 https://www.epochconverter.com/
 
-http://tickstodatetime.com/
+
 
 
 Exemplos:
