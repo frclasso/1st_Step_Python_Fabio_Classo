@@ -11,4 +11,5 @@ t = (2016, 2, 15, 10, 13, 38, 1, 48, 0)
 
 d = time.mktime(t)
 print('time.mktime(): %f' % d)
-print('asctime(localtime(secs)): %s' % time.asctime(time.localtime(d)))
+print('asctime(localtime(secs)): %s' % time.asctime(time.localtime(d))) # 2016
+#print('asctime(localtime(secs)): %s' % time.asctime(time.localtime())) # 2018

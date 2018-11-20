@@ -9,4 +9,6 @@ Sintaxe: time.gmtime([ sec ])
 
 import time
 
-print("gmtime: ", time.gmtime(1455508609.34375))
+print("gmtime: ", time.gmtime(1455508609.34375))  # ano 2016
+# print("gmtime: ", time.gmtime())
+# print("localtime: ", time.localtime(1455508609.34375)) # ano 2016
