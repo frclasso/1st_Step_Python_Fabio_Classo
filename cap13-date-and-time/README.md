@@ -6,9 +6,15 @@ realizarmos conversão entre formatos de data.
 
 O que é Ticks?
 --------------
-Intervalos de tempo são números de ponto flutuante em unidades de segundos.
-Instantes particulares no tempo são expressos em segundos desde as 00:00, 1 de
-janeiro de 1970(época).
+A época do Unix (ou hora Unix ou hora POSIX ou carimbo de data / hora Unix) é o 
+número de segundos que se passaram desde 1º de janeiro de 1970 
+(meia-noite UTC / GMT), sem contar os segundos bissextos 
+(em ISO 8601: 1970-01-01T00: 00 : 00Z). Literalmente, a época é o tempo 0 do 
+Unix (meia-noite 1/1/1970), mas 'epoch' é frequentemente usado como sinônimo 
+de Unixtime. Muitos sistemas Unix armazenam datas de época como um inteiro de 
+32 bits assinado, o que pode causar problemas em 19 de janeiro de 2038 
+(conhecido como o problema do ano 2038 ou Y2038).
+
 
 Existe um módulo de tempo popular disponível em Python, que fornece funções
 para trabalhar com tempos, e para converter entre representações. A função time.time
