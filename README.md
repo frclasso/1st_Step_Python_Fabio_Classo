@@ -9,10 +9,6 @@ na sua terceira versão (Python 3),  como ferramenta e conhecer os elementos bá
 da linguagem. Esse curso prepara ainda para os módulos seguintes, sendo pré requisitos
 para os mesmos.
 
-Grande parte dos exemplos e exercicio contidos neste repositorio estao presentes na apostila
-fornecida aos alunos do curso, a mesma pode ser baixada no link abaixo:
-
- - https://drive.google.com/open?id=1IHD4ySrxkxN2iqKJ84h06FYZXbAY4iop
  
 
 Caso tenha algum problema para baixar a apostila  entre em contato por favor.
