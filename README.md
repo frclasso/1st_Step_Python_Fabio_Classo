@@ -10,8 +10,15 @@ da linguagem. Esse curso prepara ainda para os módulos seguintes, sendo pré re
 para os mesmos.
 
  
+Apostila
+--------
 
-Caso tenha algum problema para baixar a apostila  entre em contato por favor.
+Grande parte dos exemplos e exercício contidos neste repositorio estão presentes na apostila
+fornecida aos alunos do curso.
+
+
+- Por motivo de segurana o link da apostila digital será enviado individualmente aos alunos matriculados.
+
 
 
 Organização do curso:
