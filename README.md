@@ -43,7 +43,7 @@ Organização do curso:
 Esse material foi desenvolvido por **Fabio R. Classo** 
 
 
-![Image]()
+![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/python.png)
 
 
 Contatos: frclasso@gmail.com
