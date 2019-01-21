@@ -11,7 +11,7 @@ def changeme(mylist):
     return
 
 
-#crinando a lista
+#criando a lista
 mylist=[10,20,30]
 
 #Chamando a funcao

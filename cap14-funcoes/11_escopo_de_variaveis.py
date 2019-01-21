@@ -6,7 +6,7 @@ total = 0  # variavel gobal
 def sum(arg1, arg2):
     total = arg1 + arg2  # agora total eh uma variavel local
     print("Inside the function local total: ", total)
-    return total
+    return 
 
 # Chamando a funcao
 sum(10, 20)

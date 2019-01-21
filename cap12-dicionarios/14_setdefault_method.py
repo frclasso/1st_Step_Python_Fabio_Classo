@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#1/usr#!/usr/bin/env python3
 # -*-coding:utf-8 -*-
 
 """O método setdefault () é semelhante a get (), mas irá definir dict [key] = default

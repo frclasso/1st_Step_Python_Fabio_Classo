@@ -3,7 +3,7 @@
 
 def printme(str):
     "This prints a passed string into this function."
-    printme(str)
+    print(str)
     return
 
 
