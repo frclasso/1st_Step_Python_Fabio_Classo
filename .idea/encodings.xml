@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/cap18-Extras/aula_27_fev_19/04_Importing_Data_in_Python_1/data.pkl" charset="ISO-8859-1" />
+  </component>
 </project>
