@@ -1,0 +1,13 @@
+Projetos a serem desenvolvidos ao longo do curso
+
+- calculadora de imc
+- cadastro de pessoa fisica
+- inventario / estoque
+- formulario do curso
+- menu de restaurante
+- backup de arquivos
+
+
+* criar funções
+* salvar resultados externamente
+* criar interface GUI

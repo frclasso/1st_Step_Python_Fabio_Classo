@@ -22,3 +22,7 @@ a = 10
 b = 5
 c = a//b
 print("Line 7 - Value of c is ", c)
+
+
+print(pow(a, c))
+print(pow(10, 3))

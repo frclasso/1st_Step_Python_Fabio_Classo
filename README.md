@@ -13,12 +13,8 @@ para os mesmos.
 Apostila
 --------
 
-Grande parte dos exemplos e exercício contidos neste repositorio estão presentes na apostila
-fornecida aos alunos do curso.
-
-
-- Por motivo de segurana o link da apostila digital será enviado individualmente aos alunos matriculados.
-
+Grande parte dos exemplos e exercício contidos neste repositorio estão presentes 
+na apostila fornecida aos alunos do curso.
 
 
 Organização do curso:
@@ -40,12 +36,34 @@ Organização do curso:
 - Capítulo 17 [Tratamento de excecoes](https://github.com/frclasso/apostila_python_modulo_1/tree/master/cap17-tratamento-de-excessoes)
 
 
-Esse material foi desenvolvido por **Fabio R. Classo** 
+
+Sigam-nos nas redes sociais e concorram a descontos nos nossos cursos presenciais
+---------------------------------------------------------------------------------
+
+www.floripacodegurus.com.br
+
+https://twitter.com/GurusCode
+
+https://www.instagram.com/floripa_code_gurus/
+
+https://www.facebook.com/codegurs/
 
 
-![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/python.png)
+![Image](https://github.com/frclasso/turma1_Python2019_CodeGurus/blob/master/banner__1004x558_github.png)
 
 
-Contatos: frclasso@gmail.com
+Trilha Python
+--------------
+![Image](https://github.com/frclasso/turma1_Python2019_CodeCla/blob/master/trilha_Python.png)
+
+
+
+
+Contatos:
+--------- 
+atendimento@floripacodegurus.com.br
+
+Fabio: frclasso@gmail.com
 
 https://www.linkedin.com/in/fabio-reis-classo-46881425/
+

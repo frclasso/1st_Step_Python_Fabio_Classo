@@ -10,4 +10,4 @@ try:
     l = functionName(-2)
     print("level=", l)
 except Exception as e:
-    print("Error in level argument:", e.args[0])
+    print("Error in level argument:", e)

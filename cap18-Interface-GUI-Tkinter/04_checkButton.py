@@ -4,15 +4,10 @@
 from tkinter import *
 root = Tk()
 
-CheckVar1 = IntVar()
-CheckVar2 = IntVar()
+var1 = IntVar()
+c1 = Checkbutton(root, text="Python", variable=var1).grid(row=0, sticky=W)
 
-C1 = Checkbutton(root, text="Music", variable=CheckVar1,
-                 onvalue=1, offvalue=0, height=5, width=20)
+var2 = IntVar()
+c2 = Checkbutton(root, text="Pearl", variable=var2).grid(row=1, sticky=W)
 
-C2 = Checkbutton(root, text="Video", variable=CheckVar2,
-                 onvalue=1, offvalue=0, height=5, width=20)
-
-C1.pack()
-C2.pack()
 root.mainloop()
