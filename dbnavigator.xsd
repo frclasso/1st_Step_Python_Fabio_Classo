@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="application" type="applicationType"/>
+  <xs:complexType name="enable-debug-modeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="enable-developer-modeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="show-plugin-conflict-dialogType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="componentType">
+    <xs:sequence>
+      <xs:element type="enable-debug-modeType" name="enable-debug-mode" minOccurs="0"/>
+      <xs:element type="enable-developer-modeType" name="enable-developer-mode" minOccurs="0"/>
+      <xs:element type="show-plugin-conflict-dialogType" name="show-plugin-conflict-dialog" minOccurs="0"/>
+      <xs:element type="xs:string" name="connections" minOccurs="0"/>
+      <xs:element type="browser-settingsType" name="browser-settings" minOccurs="0"/>
+      <xs:element type="navigation-settingsType" name="navigation-settings" minOccurs="0"/>
+      <xs:element type="dataset-grid-settingsType" name="dataset-grid-settings" minOccurs="0"/>
+      <xs:element type="dataset-editor-settingsType" name="dataset-editor-settings" minOccurs="0"/>
+      <xs:element type="code-editor-settingsType" name="code-editor-settings" minOccurs="0"/>
+      <xs:element type="code-completion-settingsType" name="code-completion-settings" minOccurs="0"/>
+      <xs:element type="execution-engine-settingsType" name="execution-engine-settings" minOccurs="0"/>
+      <xs:element type="operation-settingsType" name="operation-settings" minOccurs="0"/>
+      <xs:element type="ddl-file-settingsType" name="ddl-file-settings" minOccurs="0"/>
+      <xs:element type="general-settingsType" name="general-settings" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="name" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="display-modeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="navigation-history-sizeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="show-object-detailsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="generalType">
+    <xs:sequence>
+      <xs:element type="display-modeType" name="display-mode" minOccurs="0"/>
+      <xs:element type="navigation-history-sizeType" name="navigation-history-size" minOccurs="0"/>
+      <xs:element type="show-object-detailsType" name="show-object-details" minOccurs="0"/>
+      <xs:element type="enable-zoomingType" name="enable-zooming" minOccurs="0"/>
+      <xs:element type="enable-column-tooltipType" name="enable-column-tooltip" minOccurs="0"/>
+      <xs:element type="fetch-block-sizeType" name="fetch-block-size" minOccurs="0"/>
+      <xs:element type="fetch-timeoutType" name="fetch-timeout" minOccurs="0"/>
+      <xs:element type="trim-whitespacesType" name="trim-whitespaces" minOccurs="0"/>
+      <xs:element type="convert-empty-strings-to-nullType" name="convert-empty-strings-to-null" minOccurs="0"/>
+      <xs:element type="select-content-on-cell-editType" name="select-content-on-cell-edit" minOccurs="0"/>
+      <xs:element type="large-value-preview-activeType" name="large-value-preview-active" minOccurs="0"/>
+      <xs:element type="show-object-navigation-gutterType" name="show-object-navigation-gutter" minOccurs="0"/>
+      <xs:element type="show-spec-declaration-navigation-gutterType" name="show-spec-declaration-navigation-gutter" minOccurs="0"/>
+      <xs:element type="enable-spellcheckingType" name="enable-spellchecking" minOccurs="0"/>
+      <xs:element type="enable-reference-spellcheckingType" name="enable-reference-spellchecking" minOccurs="0"/>
+      <xs:element type="lookup-ddl-filesType" name="lookup-ddl-files" minOccurs="0"/>
+      <xs:element type="create-ddl-filesType" name="create-ddl-files" minOccurs="0"/>
+      <xs:element type="synchronize-ddl-filesType" name="synchronize-ddl-files" minOccurs="0"/>
+      <xs:element type="use-qualified-namesType" name="use-qualified-names" minOccurs="0"/>
+      <xs:element type="make-scripts-rerunnableType" name="make-scripts-rerunnable" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="object-typeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="name" use="optional"/>
+        <xs:attribute type="xs:string" name="enabled" use="optional"/>
+        <xs:attribute type="xs:string" name="sorting-type" use="optional"/>
+        <xs:attribute type="xs:string" name="editor-type" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="object-type-filterType">
+    <xs:sequence>
+      <xs:element type="object-typeType" name="object-type" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="filtersType">
+    <xs:sequence>
+      <xs:element type="object-type-filterType" name="object-type-filter" minOccurs="0"/>
+      <xs:element type="prompt-filter-dialogType" name="prompt-filter-dialog" minOccurs="0"/>
+      <xs:element type="default-filter-typeType" name="default-filter-type" minOccurs="0"/>
+      <xs:element type="basic-filterType" name="basic-filter" minOccurs="0"/>
+      <xs:element type="extended-filterType" name="extended-filter" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="sortingType">
+    <xs:sequence>
+      <xs:element type="object-typeType" name="object-type" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="nulls-firstType" name="nulls-first" minOccurs="0"/>
+      <xs:element type="max-sorting-columnsType" name="max-sorting-columns" minOccurs="0"/>
+      <xs:element type="sorting-elementType" name="sorting-element" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="enabled" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="default-editorsType">
+    <xs:sequence>
+      <xs:element type="object-typeType" name="object-type" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="browser-settingsType">
+    <xs:sequence>
+      <xs:element type="generalType" name="general"/>
+      <xs:element type="filtersType" name="filters"/>
+      <xs:element type="sortingType" name="sorting"/>
+      <xs:element type="default-editorsType" name="default-editors"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="lookup-objectsType">
+    <xs:sequence>
+      <xs:element type="object-typeType" name="object-type" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="force-database-loadType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="prompt-connection-selectionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="prompt-schema-selectionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="lookup-filtersType">
+    <xs:sequence>
+      <xs:element type="lookup-objectsType" name="lookup-objects"/>
+      <xs:element type="force-database-loadType" name="force-database-load"/>
+      <xs:element type="prompt-connection-selectionType" name="prompt-connection-selection"/>
+      <xs:element type="prompt-schema-selectionType" name="prompt-schema-selection"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="navigation-settingsType">
+    <xs:sequence>
+      <xs:element type="lookup-filtersType" name="lookup-filters"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="enable-zoomingType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="enable-column-tooltipType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="nulls-firstType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="max-sorting-columnsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="columnNamesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="visibleType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="editableType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="tracking-columnsType">
+    <xs:sequence>
+      <xs:element type="columnNamesType" name="columnNames"/>
+      <xs:element type="visibleType" name="visible"/>
+      <xs:element type="editableType" name="editable"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="dataset-grid-settingsType">
+    <xs:sequence>
+      <xs:element type="generalType" name="general"/>
+      <xs:element type="sortingType" name="sorting"/>
+      <xs:element type="tracking-columnsType" name="tracking-columns"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="activeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="active-if-emptyType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="data-length-thresholdType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="popup-delayType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="text-editor-popupType">
+    <xs:sequence>
+      <xs:element type="activeType" name="active"/>
+      <xs:element type="active-if-emptyType" name="active-if-empty"/>
+      <xs:element type="data-length-thresholdType" name="data-length-threshold"/>
+      <xs:element type="popup-delayType" name="popup-delay"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="show-popup-buttonType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="element-count-thresholdType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="values-list-popupType">
+    <xs:sequence>
+      <xs:element type="show-popup-buttonType" name="show-popup-button"/>
+      <xs:element type="element-count-thresholdType" name="element-count-threshold"/>
+      <xs:element type="data-length-thresholdType" name="data-length-threshold"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="fetch-block-sizeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="fetch-timeoutType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="trim-whitespacesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="convert-empty-strings-to-nullType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="select-content-on-cell-editType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="large-value-preview-activeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="prompt-filter-dialogType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="default-filter-typeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="content-typeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="name" use="optional"/>
+        <xs:attribute type="xs:string" name="enabled" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="content-typesType">
+    <xs:sequence>
+      <xs:element type="content-typeType" name="content-type" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="qualified-text-editorType">
+    <xs:sequence>
+      <xs:element type="content-typesType" name="content-types"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="text-length-threshold"/>
+  </xs:complexType>
+  <xs:complexType name="navigation-targetType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="record-navigationType">
+    <xs:sequence>
+      <xs:element type="navigation-targetType" name="navigation-target"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="dataset-editor-settingsType">
+    <xs:sequence>
+      <xs:element type="text-editor-popupType" name="text-editor-popup"/>
+      <xs:element type="values-list-popupType" name="values-list-popup"/>
+      <xs:element type="generalType" name="general"/>
+      <xs:element type="filtersType" name="filters"/>
+      <xs:element type="qualified-text-editorType" name="qualified-text-editor"/>
+      <xs:element type="record-navigationType" name="record-navigation"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="show-object-navigation-gutterType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="show-spec-declaration-navigation-gutterType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="enable-spellcheckingType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="enable-reference-spellcheckingType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="save-changesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="revert-changesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="confirmationsType">
+    <xs:sequence>
+      <xs:element type="save-changesType" name="save-changes"/>
+      <xs:element type="revert-changesType" name="revert-changes"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="code-editor-settingsType">
+    <xs:sequence>
+      <xs:element type="generalType" name="general"/>
+      <xs:element type="confirmationsType" name="confirmations"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="filter-elementType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+        <xs:attribute type="xs:string" name="id" use="optional"/>
+        <xs:attribute type="xs:string" name="selected" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="user-schemaType">
+    <xs:sequence>
+      <xs:element type="filter-elementType" name="filter-element" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="public-schemaType">
+    <xs:sequence>
+      <xs:element type="filter-elementType" name="filter-element" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="any-schemaType">
+    <xs:sequence>
+      <xs:element type="filter-elementType" name="filter-element" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="basic-filterType">
+    <xs:sequence>
+      <xs:element type="filter-elementType" name="filter-element" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="user-schemaType" name="user-schema"/>
+      <xs:element type="public-schemaType" name="public-schema"/>
+      <xs:element type="any-schemaType" name="any-schema"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="extended-filterType">
+    <xs:sequence>
+      <xs:element type="filter-elementType" name="filter-element" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="user-schemaType" name="user-schema"/>
+      <xs:element type="public-schemaType" name="public-schema"/>
+      <xs:element type="any-schemaType" name="any-schema"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="sorting-elementType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+        <xs:attribute type="xs:string" name="id" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="enforce-code-style-caseType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="formatType">
+    <xs:sequence>
+      <xs:element type="enforce-code-style-caseType" name="enforce-code-style-case"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="code-completion-settingsType">
+    <xs:sequence>
+      <xs:element type="filtersType" name="filters"/>
+      <xs:element type="sortingType" name="sorting"/>
+      <xs:element type="formatType" name="format"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="execution-timeoutType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="debug-execution-timeoutType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="focus-resultType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="prompt-executionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="statement-executionType">
+    <xs:sequence>
+      <xs:element type="fetch-block-sizeType" name="fetch-block-size"/>
+      <xs:element type="execution-timeoutType" name="execution-timeout"/>
+      <xs:element type="debug-execution-timeoutType" name="debug-execution-timeout"/>
+      <xs:element type="focus-resultType" name="focus-result"/>
+      <xs:element type="prompt-executionType" name="prompt-execution"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="script-executionType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="command-line-interfaces"/>
+      <xs:element type="execution-timeoutType" name="execution-timeout"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="parameter-history-sizeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="method-executionType">
+    <xs:sequence>
+      <xs:element type="execution-timeoutType" name="execution-timeout"/>
+      <xs:element type="debug-execution-timeoutType" name="debug-execution-timeout"/>
+      <xs:element type="parameter-history-sizeType" name="parameter-history-size"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="execution-engine-settingsType">
+    <xs:sequence>
+      <xs:element type="statement-executionType" name="statement-execution"/>
+      <xs:element type="script-executionType" name="script-execution"/>
+      <xs:element type="method-executionType" name="method-execution"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="on-project-closeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="on-disconnectType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="on-autocommit-toggleType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="uncommitted-changesType">
+    <xs:sequence>
+      <xs:element type="on-project-closeType" name="on-project-close"/>
+      <xs:element type="on-disconnectType" name="on-disconnect"/>
+      <xs:element type="on-autocommit-toggleType" name="on-autocommit-toggle"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="on-commitType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="on-rollbackType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="multiple-uncommitted-changesType">
+    <xs:sequence>
+      <xs:element type="on-commitType" name="on-commit"/>
+      <xs:element type="on-rollbackType" name="on-rollback"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="transactionsType">
+    <xs:sequence>
+      <xs:element type="uncommitted-changesType" name="uncommitted-changes"/>
+      <xs:element type="multiple-uncommitted-changesType" name="multiple-uncommitted-changes"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="disconnect-sessionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="kill-sessionType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="reload-on-filter-changeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="session-browserType">
+    <xs:sequence>
+      <xs:element type="disconnect-sessionType" name="disconnect-session"/>
+      <xs:element type="kill-sessionType" name="kill-session"/>
+      <xs:element type="reload-on-filter-changeType" name="reload-on-filter-change"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="compile-typeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="compile-dependenciesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="always-show-controlsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="compilerType">
+    <xs:sequence>
+      <xs:element type="compile-typeType" name="compile-type"/>
+      <xs:element type="compile-dependenciesType" name="compile-dependencies"/>
+      <xs:element type="always-show-controlsType" name="always-show-controls"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="debugger-typeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="use-generic-runnersType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="debuggerType">
+    <xs:sequence>
+      <xs:element type="debugger-typeType" name="debugger-type"/>
+      <xs:element type="use-generic-runnersType" name="use-generic-runners"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="operation-settingsType">
+    <xs:sequence>
+      <xs:element type="transactionsType" name="transactions"/>
+      <xs:element type="session-browserType" name="session-browser"/>
+      <xs:element type="compilerType" name="compiler"/>
+      <xs:element type="debuggerType" name="debugger"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="mappingType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="file-type-id" use="optional"/>
+        <xs:attribute type="xs:string" name="extensions" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="extensionsType">
+    <xs:sequence>
+      <xs:element type="mappingType" name="mapping" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="lookup-ddl-filesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="create-ddl-filesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="synchronize-ddl-filesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="use-qualified-namesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="make-scripts-rerunnableType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="ddl-file-settingsType">
+    <xs:sequence>
+      <xs:element type="extensionsType" name="extensions"/>
+      <xs:element type="generalType" name="general"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="date-formatType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="number-formatType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="localeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="use-custom-formatsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="regional-settingsType">
+    <xs:sequence>
+      <xs:element type="date-formatType" name="date-format"/>
+      <xs:element type="number-formatType" name="number-format"/>
+      <xs:element type="localeType" name="locale"/>
+      <xs:element type="use-custom-formatsType" name="use-custom-formats"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="environment-typeType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="id" use="optional"/>
+        <xs:attribute type="xs:string" name="name" use="optional"/>
+        <xs:attribute type="xs:string" name="description" use="optional"/>
+        <xs:attribute type="xs:string" name="color" use="optional"/>
+        <xs:attribute type="xs:string" name="readonly-code" use="optional"/>
+        <xs:attribute type="xs:string" name="readonly-data" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="environment-typesType">
+    <xs:sequence>
+      <xs:element type="environment-typeType" name="environment-type" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="connection-tabsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="dialog-headersType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="object-editor-tabsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="script-editor-tabsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="execution-result-tabsType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="value"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="visibility-settingsType">
+    <xs:sequence>
+      <xs:element type="connection-tabsType" name="connection-tabs"/>
+      <xs:element type="dialog-headersType" name="dialog-headers"/>
+      <xs:element type="object-editor-tabsType" name="object-editor-tabs"/>
+      <xs:element type="script-editor-tabsType" name="script-editor-tabs"/>
+      <xs:element type="execution-result-tabsType" name="execution-result-tabs"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="environmentType">
+    <xs:sequence>
+      <xs:element type="environment-typesType" name="environment-types"/>
+      <xs:element type="visibility-settingsType" name="visibility-settings"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="general-settingsType">
+    <xs:sequence>
+      <xs:element type="regional-settingsType" name="regional-settings"/>
+      <xs:element type="environmentType" name="environment"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="applicationType">
+    <xs:sequence>
+      <xs:element type="componentType" name="component" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
