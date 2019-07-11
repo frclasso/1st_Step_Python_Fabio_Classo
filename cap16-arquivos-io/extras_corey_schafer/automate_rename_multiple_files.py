@@ -3,7 +3,7 @@
 
 import os
 
-os.chdir('/Users/fabio/Desktop/ARQUIVOS_IMGs')
+os.chdir('/Users/fabio/Desktop/imgs')
 
 #print(os.getcwd())
 

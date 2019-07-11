@@ -8,7 +8,7 @@ root.geometry("140x100") # tamanho do da janela
 
 
 def helloCallBack():
-    msg = messagebox.showinfo(title="Hello Python", message="Hello World")
+    messagebox.showinfo(title="Hello Python", message="Hello World")
 
 
 B = Button(root, text="Hello", command=helloCallBack)

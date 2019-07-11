@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
-"""Todos os parâmetros (argumentos) em Python são passados por referência. Isso
-significa que se você mudar o valor ao qual um parâmetro se refere dentro de uma
-função, a mudança também reflete de volta a função de chamada.
-"""
+
+"""Aqui o argumento está sendo passado por referência e
+a referência está sendo sobrescrita dentro da função chamada."""
 
 
 def changeme(mylist):

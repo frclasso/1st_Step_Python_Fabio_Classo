@@ -2,6 +2,7 @@
 from tkinter import *
 
 root = Tk()
+root.geometry("670x180")
 
 text1 = Text(root,height=20, width=30)
 photo = PhotoImage(file='william_shakespeare.gif')

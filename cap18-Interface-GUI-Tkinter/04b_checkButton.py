@@ -16,7 +16,7 @@ var2 = IntVar()
 c2 = Checkbutton(root, text="Pearl", variable=var2).grid(row=1, sticky=W)
 
 # Adicionando dois botões
-b1 = Button(root, text="Exibir", command=var_states).grid(row=4, sticky=W,pady=4)
-b2 = Button(root, text="Fechar", command=root.quit).grid(row=3, sticky=W,pady=4)
+b1 = Button(root, text="Exibir valores", command=var_states).grid(row=4, sticky=W, pady=4)
+b2 = Button(root, text="Sair", command=root.quit).grid(row=5, sticky=W, pady=4)
 
 root.mainloop()

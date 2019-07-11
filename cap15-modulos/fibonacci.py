@@ -8,3 +8,4 @@ def fib(n):
         result.append(b)
         a,b = b, a+ b
     return result
+

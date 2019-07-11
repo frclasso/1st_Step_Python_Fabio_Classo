@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 
-"""Aqui o argumento está sendo passado por referência e
-a referência está sendo sobrescrita dentro da função chamada."""
 
 
 def changeme(mylist):
-    "This is change  a passed list into this function."
+    "Essa função Não altera a lista passada como argumento"
     mylist=[1,2,3,4] # Isso atribuiria nova referência em mylist
     print("Values inside the function: ", mylist)
     return
