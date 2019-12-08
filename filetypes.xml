@@ -12,6 +12,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="calc.py" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
