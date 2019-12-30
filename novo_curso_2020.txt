@@ -1,0 +1,14 @@
+# Novo curso 2020
+
+1 - intro computacao (bios, OS, memoria)
+2 - elementos basicos
+3 - strings e metodos (format)
+4 - estruturas de dados em Python (listas, tuplas, dicionarios, sets)
+5 - decisao
+6 - repeticao/loops
+7 - reuso de codigo(funcoes)
+8 - modulos (date time e os)
+9 - Arquivos, lendo e escrevendo  (.csv, .txt, .xml, .html)
+10 - Parsers
+11 - Interface grafica com TKinter
+12 - compiladores
