@@ -4,6 +4,8 @@
       <mapping pattern="calc.py" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="anotacoes.txt" type="PLAIN_TEXT" />
+      <mapping pattern="anotacoes" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
