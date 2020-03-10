@@ -26,7 +26,7 @@ print(yinka[3])
 # Atributos
 
 #  _fields , retorna os nomes dos itens dos elementos da instancia namedtuple
-#  _replace, retorna uma nona instancia  de uma namedtuple, a instancia original continua inalterada.
+#  _replace, retorna uma nova instancia  de uma namedtuple, a instancia original continua inalterada.
 #  _asdict, retorna um dicionario ordenado  a partir de uma instancia namedtuple na order  em que foram inseridos
 # _make, cria uma nova instancia namedtuple a partir de dados iteráveis disponíveis
 
