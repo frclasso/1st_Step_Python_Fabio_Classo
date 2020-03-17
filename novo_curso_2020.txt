@@ -1,33 +1,19 @@
 # Novo curso 2020
 
-1 - intro computacao (bios, OS, memoria)
-2 - elementos basicos
-3 - strings e metodos (format)
-4 - estruturas de dados em Python (listas, tuplas, dicionarios, sets)
-5 - decisao (Criando um Menu de opcoes)
-6 - repeticao/loops(criando um script de Autenticacao)
-7 - reuso de codigo(funcoes)
-8 - modulos (date time e os)
-9 - Arquivos, lendo e escrevendo  (.csv, .txt, .xml, .html)
-10 - Parsers
-11 - Web Scrapling (urlib/BeautifulSoup)
-12 - Interface grafica com TKinter
-14 - Tratamento de excessoes
-13 - Compiladores (
-    http://www.pyinstaller.org/
-    https://www.dobitaobyte.com.br/compilar-programas-escritos-em-python-com-cython/
-    https://cython.org/
 
-)
+1-Introducao a computacao (bios, boot, sistema operacional, memória,arquitetura de computadores e linguagens de programação)
+2-Visao Geral do Python
+3-Instalacao de preparacao do ambiente
+4-Elementos basicos
+5-Funcoes internas - Built-in functions
+6-A Biblioteca padrao - Standard Library
+7-Estruturas de dados em Python (strings, listas, tuplas, dicionarios, sets)
+8-Estruturas de decisao (Criando um Menu de opcoes)
+9-Estruturas de  repeticao/loops(criando um script de autenticacao)
+10-Funcoes - reuso de codigo
+11-Modulos (date time, calendar, os, sys)
+12-Manipulando Arquivos (.csv, .json .txt, .xml, .html, .txt, .pdf)Parsers
+13-Web Scrapping (urllib, requests e BeautifulSoup)
+14Interface grafica com TKinter
+15Tratamento de excecoesCompiladores  (http://www.pyinstaller.org/
 
-# Exemplos
-    Holerite
-    Caluculo IR
-    Restaurante
-    Parser
-    Manipulador de imagens
-    Programa de Backup
-
-# extras
-    Built in functions
-    Standar Library

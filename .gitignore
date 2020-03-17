@@ -252,8 +252,8 @@ Cap19-Extras/*.xlsx
 Cap19-Extras/*.csv
 Cap19-Extras/*.sas7bdat
 cap16-arquivos-io/datasets_modulo1/listando_arquivos/*.csv
-cap16-arquivos-io/datasets_modulo1/listando_arquivos/LIGO_data.hdf5
-cap16-arquivos-io/datasets_modulo1/listando_arquivos/sales.sas7bdat
+Cap13-Manipulando_arquivos-io/datasets_modulo1/listando_arquivos/LIGO_data.hdf5
+Cap13-Manipulando_arquivos-io/datasets_modulo1/listando_arquivos/sales.sas7bdat
 cap16-arquivos-io/datasets_modulo1/listando_arquivos/*.xlsx
 cap16-arquivos-io/extras2/*.jpg
 cap16-arquivos-io/extras3_excel_files/*.xlsx
