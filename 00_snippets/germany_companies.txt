@@ -43,7 +43,7 @@ germany_companies = [
 ['Arcor','Telecommunications','Fixed line telecommunications','Eschborn',1966,'Telecom, part of Vodafone (UK)'],
 ['Armedangels','Consumer goods','Clothing & accessories','Cologne',2007,'Fashion'],
 ['Audi','Consumer goods','Automobiles','Ingolstadt',1910,'Auto manufacturer, part of Volkswagen Group'],
-['August Storck','Consumer goods','Food products','Berlin',1903,'Confectionery']
+['August Storck','Consumer goods','Food products','Berlin',1903,'Confectionery']]
 
 
 

@@ -1,7 +1,7 @@
 
+# ["store", "product_name", "quantity_purchased", "revenue"]
 
 fruits_stores = [
-    ["store", "product_name", "quantity_purchased", "revenue"],
     ["Pete’s Discount fruit", "Banana", 1, 0.23],
     ["Derek’s Fruit Stand", "Banana", 3, 0.69],
     ["Pete’s Discount fruit", "Orange", 1, 0.68],
