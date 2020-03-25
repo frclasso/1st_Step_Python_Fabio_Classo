@@ -50,7 +50,6 @@ https://www.facebook.com/codegurs/
 
 
 ![Image](![Image](https://github.com/frclasso/turma1_Python2019_CodeGurus/blob/master/banner__1004x558_github.png)
-)
 
 
 Trilha Python
@@ -63,9 +62,13 @@ Trilha Python
 Contatos:
 --------- 
 administracao@floripacodegurus.com.br
+
 https://www.floripacodegurus.com.br/
+
 https://www.instagram.com/floripa_code_gurus/
+
 https://twitter.com/GurusCode
+
 https://www.facebook.com/codegurs/
 
 
