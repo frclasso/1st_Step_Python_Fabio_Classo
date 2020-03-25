@@ -49,7 +49,7 @@ https://www.instagram.com/floripa_code_gurus/
 https://www.facebook.com/codegurs/
 
 
-![Image](![Image](https://github.com/frclasso/turma1_Python2019_CodeGurus/blob/master/banner__1004x558_github.png)
+![Image](https://github.com/frclasso/1st_Step_Python_Fabio_Classo/blob/master/banner_twitter_2020.png)
 
 
 Trilha Python
