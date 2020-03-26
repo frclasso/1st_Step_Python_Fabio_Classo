@@ -11,11 +11,11 @@ minusculos = 'abcdefghijklmnopqrstuwxyz'
 maiusculos = minusculos.upper()  # upper, strings
 # simbolos
 simbolos = '!@#$%^&*()_+-=?/><:;'
-# numeros
+# fibonacci_exemplos
 numeros = range(10) # valores 0 - 9
 
 # print(maiusculos)
-# print(list(numeros))
+# print(list(fibonacci_exemplos))
 
 
 # choice, sample

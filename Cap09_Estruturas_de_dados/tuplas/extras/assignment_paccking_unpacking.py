@@ -9,7 +9,7 @@ t = ('foo', 'bar', 'qux', 'baz')
 
 '''unpacking'''
 # (s1, s2, s3, s4) = t
-"""Quando desempacotamos o numeros de variaveis da essquerda
+"""Quando desempacotamos o fibonacci_exemplos de variaveis da essquerda
 tem de ser o mesmo contido na tupla"""
 
 # ou

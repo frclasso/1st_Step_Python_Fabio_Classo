@@ -15,14 +15,14 @@ for number in get_generator():
     print(number)
 
 
-"""Para obtermos o mesmo resulta utilizando a declaracao return, precisamos  salvar o numeros
+"""Para obtermos o mesmo resulta utilizando a declaracao return, precisamos  salvar o fibonacci_exemplos
 gerados em uma lista"""
 
 print()
 
 
 # def get_list():
-#     numbers = []  # Lista onde sera salva os numeros
+#     numbers = []  # Lista onde sera salva os fibonacci_exemplos
 #     for i in range(10):
 #         numbers.append(i)
 #     return numbers

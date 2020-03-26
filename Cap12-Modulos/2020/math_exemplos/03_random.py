@@ -15,12 +15,15 @@ print(f'Decider is:', decider)
 
 print("You rolled a " + str(random.randrange(1, 7)))
 
-# random choices
+
 megaSena = random.sample(range(61), 6) # range de 0 a 60, gerando 6 fibonacci_exemplos
 print(megaSena)
 
+
+# random choices
 possiblePets = ['cat', 'dog', 'fish']
 print(random.choice(possiblePets))
+
 
 cards = ['Jack', 'Queen', 'Ace', 'King']
 random.shuffle(cards)
