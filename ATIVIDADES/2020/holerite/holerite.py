@@ -15,13 +15,13 @@ salario_base =3000
 
 
 def faixa_de_INSS(salario):
-    if salario < 1693.72:
+    if salario <= 1693.72:
         inss = (8/100)
         desconto = salario * inss
-    elif 1693.73 < salario < 2822.90:
+    elif 1693.73 <= salario <= 2822.90:
         inss = (9/100)
         desconto = salario * inss
-    elif 2822.91 < salario < 5645.80:
+    elif 2822.91 <= salario <= 5645.80:
         inss = (11/100)
         desconto = salario * inss
     else:
@@ -36,18 +36,18 @@ def faixa_de_IRPF(salario, qtd_dependentes=0):
 
     if salario < 1903.98:
         desconto = 0
-    elif 1903.9 < salario < 2826.65:
+    elif 1903.99 <= salario <= 2826.65:
         irrf = (7.5/100)
         parcela = 142.80
         # print(f'Salario atual: R${salario:.2f}')
         desc = salario * irrf - parcela - deducao_dependentes
         desconto= abs(desc)
-    elif 2826.65 < salario < 3751.05:
+    elif 2826.66 <= salario <= 3751.05:
         irrf = (15/100)
         parcela = 354.80
         desc = salario * irrf - parcela - deducao_dependentes
         desconto= abs(desc)
-    elif 3751.05 < salario < 4664.68:
+    elif 3751.06 <= salario <= 4664.68:
         irrf = (22.5/100)
         parcela = 636.13
         desc = salario * irrf - parcela - deducao_dependentes
