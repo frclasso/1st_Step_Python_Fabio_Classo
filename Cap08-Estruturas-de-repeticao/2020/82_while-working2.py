@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-
-
 secret = 'swordfish'
 pw = ''
 auth = False      #autorizado inicia com valor false

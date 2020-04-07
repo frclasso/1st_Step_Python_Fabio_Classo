@@ -22,6 +22,18 @@ tecnologia = 'Python3.8.7'
 print(f'id  de tecnologia: {id(tecnologia)}')
 print()
 
+
+# input
+nome = input('Digite seu nome: ')
+print(nome)
+
+idade = int(input('Digite sua idade: '))
+print(idade)
+
+peso = float(input('Digite seu peso em Kg: '))
+print(peso)
+
+
 # isinstance
 companies = ('Audi', 'Tesla', 'Apple')
 print('método isinstance: ',isinstance(companies, tuple))

@@ -1,16 +1,10 @@
 
-# 2D list of lists
-lot_2d = [
-    ['Toyota', 'Audi', 'BMW'],
-    ['Lexus', 'Jeep'],
-    ['Honda','Kia', 'Mazda']
-]
 
-lot_3d = [
+carros_lot_3d = [
     [
         ['Tesla', 'Fiat', 'BMW'],
         ['Honda', 'Jeep'],
-        ['Saab', 'Kia','Ford']
+        ['Porsche', 'Kia','Ford']
     ],
     [
         ['Subaru', 'Nissan'],
@@ -18,13 +12,25 @@ lot_3d = [
     ],
     [
         ['Mazda', 'Chevy'],
-        [],
+        ['Audi'],
         ['Volkswagen']
     ]
 ]
+#primeiro nivel
+print(type(carros_lot_3d))
+print(carros_lot_3d)
+
+#segundo nivel
+print(type(carros_lot_3d[0]))
+print(carros_lot_3d[0])
+
+#terceiro nivel
+print(type(carros_lot_3d[0][0]))
+print(carros_lot_3d[0][0])
 
 
-# for floor in lot_3d:
+
+# for floor in carros_lot_3d:
 #     for row in floor:
 #         for car in row:
 #             print(car)

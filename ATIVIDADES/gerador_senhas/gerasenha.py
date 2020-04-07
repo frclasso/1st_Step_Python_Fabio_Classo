@@ -8,7 +8,7 @@ import random
 # minusculos
 minusculos = 'abcdefghijklmnopqrstuwxyz'
 # maiusculos
-maiusculos = minusculos.upper()  # upper, strings
+maiusculos = minusculos.upper()  # upper, 9.1_Strings
 # simbolos
 simbolos = '!@#$%^&*()_+-=?/><:;'
 # fibonacci_exemplos

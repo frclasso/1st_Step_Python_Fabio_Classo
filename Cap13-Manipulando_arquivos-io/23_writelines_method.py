@@ -2,7 +2,7 @@
 
 fo = open('foo2.txt', 'r+')
 print("Nome do arquivo: ",fo.name)
-seq = ["\nThis is 7th line\nThis is 8th line"]  # Sequencia de strings
+seq = ["\nThis is 7th line\nThis is 8th line"]  # Sequencia de 9.1_Strings
 
 #Escreve a sequencia no final do arquivo
 fo.seek(0, 2)
