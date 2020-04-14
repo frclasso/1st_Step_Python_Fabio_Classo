@@ -6,6 +6,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="calc.py" type="PLAIN_TEXT" />
+      <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="anotacoes.txt" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
