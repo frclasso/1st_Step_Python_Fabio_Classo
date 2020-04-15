@@ -8,14 +8,14 @@ import random
 # minusculos
 minusculos = 'abcdefghijklmnopqrstuwxyz'
 # maiusculos
-maiusculos = minusculos.upper()  # upper, strings
+maiusculos = minusculos.upper()  # upper, 9.1_Strings
 # simbolos
 simbolos = '!@#$%^&*()_+-=?/><:;'
-# numeros
+# fibonacci_exemplos
 numeros = range(10) # valores 0 - 9
 
 # print(maiusculos)
-# print(list(numeros))
+# print(list(fibonacci_exemplos))
 
 
 # choice, sample

@@ -1,2 +1,2 @@
 import os
-os.rmdir('extras/subextra/sub_sub_extra')
+os.rmdir('math_exemplos/subextra/sub_sub_extra')

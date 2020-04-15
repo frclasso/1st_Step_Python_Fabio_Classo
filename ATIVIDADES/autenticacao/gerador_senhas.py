@@ -8,7 +8,7 @@ simbolos = '!@#$%*(){}[]+-=/\|;:,'
 numeros = '0123456789'
 
 #print(maiusculas)
-#print(numeros)
+#print(fibonacci_exemplos)
 
 
 caracteres = minusculas + maiusculas + simbolos + numeros

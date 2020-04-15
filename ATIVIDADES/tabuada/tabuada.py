@@ -7,8 +7,8 @@ imaginem ensinar tabuada pra uma criança"""
 # range
 # n = 11
 # while n != 11:
-#      numeros = range(11)
-#      for num in numeros:
+#      fibonacci_exemplos = range(11)
+#      for num in fibonacci_exemplos:
 #           print(f'O Numero {n} * {num} = {num * n}')
 
 continua = ['sim', 's']
