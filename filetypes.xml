@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="sqlite3" type="DBN-SQL" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="anotacoes" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
