@@ -257,3 +257,5 @@ Cap13_Manipulando_arquivos-io/datasets_modulo1/listando_arquivos/sales.sas7bdat
 cap16-arquivos-io/datasets_modulo1/listando_arquivos/*.xlsx
 cap16-arquivos-io/extras2/*.jpg
 cap16-arquivos-io/extras3_excel_files/*.xlsx
+
+ATIVIDADES/menu_project/clientes.csv
