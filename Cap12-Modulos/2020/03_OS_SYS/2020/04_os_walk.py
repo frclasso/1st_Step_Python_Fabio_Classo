@@ -1,7 +1,7 @@
 import os
 import time
 
-for path, sub_dirs, files in os.walk('..'):
+for path, sub_dirs, files in os.walk('../..'):
     for file in files:
         if not file.endswith(".py") and not file.startswith('.') and not file.endswith('.pyc'):
             file_path = os.path.join(path, file)

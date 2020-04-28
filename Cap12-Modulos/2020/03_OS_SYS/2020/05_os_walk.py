@@ -15,7 +15,7 @@ def get_size(dir):
             converted = convert_to_megabytes(size)
     return converted
 
-dir_size = get_size('../../../')
+dir_size = get_size('../../../../')
 
 
 

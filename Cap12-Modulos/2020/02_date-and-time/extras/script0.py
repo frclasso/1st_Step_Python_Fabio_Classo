@@ -11,3 +11,4 @@ print()
 # dia da semana (weekday)
 print(data_atual.weekday()) # Monday 0
 print(data_atual.isoweekday()) # Monday 1
+# Descomente a linha abaixo para corrigir  o problema
