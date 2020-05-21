@@ -17,7 +17,6 @@
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="app" type="Erlang/OTP app" />
     </extensionMap>
   </component>
 </application>
