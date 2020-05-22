@@ -10,4 +10,5 @@ Sintaxe: time.asctime([t]))
 import time
 
 t = time.localtime()
+print(t)
 print("asctime: ", time.asctime(t))

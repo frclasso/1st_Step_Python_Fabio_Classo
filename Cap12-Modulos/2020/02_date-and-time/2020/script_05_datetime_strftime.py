@@ -20,13 +20,7 @@ print(now.strftime("%a, %A, %d"))
 
 print(now.strftime("%b, %B, %m"))
 
-"""Formatting times
-   %H hours
-   %M minutes
-   %S seconds
-   %p AM or PM"""
 
-print(now.strftime("%H:%M:%S %p"))
 
 """Formatting years
    %y abbreviated year  as tow numbers: 18
@@ -34,6 +28,13 @@ print(now.strftime("%H:%M:%S %p"))
 
 print(now.strftime("%y, %Y"))
 
+"""Formatting times
+   %H hours
+   %M minutes
+   %S seconds
+   %p AM or PM"""
+
+print(now.strftime("%H:%M:%S %p"))
 
 """Juntand tudo"""
 print(f"Today is {now.strftime('%B')} {now.strftime('%d')}(th/rd/nd),"

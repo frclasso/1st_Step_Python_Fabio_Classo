@@ -1,0 +1,3 @@
+nome,sobrenome,idade,cpf,email,fone,formacao,empresa,cargo,cidade,uf,criado_em,
+Fabio,Classo,40,111222333444,fabio.classo@nexxera.com(48)9999988888,Sistemas de Informação,Grupo Nexxera,Analista de Sistemas,Florianopolis,SC,2020-05-03,
+Giovanna,Classo,8,1112223330000,giovanna.classo@email.com(48)9999988888,Series inicais,Centro Educacional Santo Antonio,Estudante Ensino Fundamental,Florianopolis,SC,2020-05-03,
