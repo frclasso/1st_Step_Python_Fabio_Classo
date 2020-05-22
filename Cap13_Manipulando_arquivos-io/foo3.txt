@@ -1,5 +1,0 @@
-C++
-Java
-Python
-Pearl
-PHP

@@ -1,0 +1,7 @@
+Arquivo que contem dados de clientes
+nome Fabio
+sobrenome Classo
+nacionaldade Brasileiro
+estado_civil divorciado
+formacao Sistemas de Informacao
+

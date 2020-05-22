@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Microvix>
+    <ResponseData>
+        <C>
+            <D>portal</D>
+            <D>cnpj_emp</D>
+            <D>id_config_tributaria</D>
+            <D>desc_config_tributaria</D>
+            <D>sigla_config_tributaria</D>
+            <D>timestamp</D>
+        </C>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>78</D>
+            <D>(SP) CONSUMO E SERVIÃOS</D>
+            <D>CONSUMO</D>
+            <D>1231059273</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30008</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>94036000</D>
+            <D>1231059608</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30009</D>
+            <D>Comunicação</D>
+            <D>12</D>
+            <D>1721947429</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30014</D>
+            <D>(PR) CONSUMO E SERVICOS</D>
+            <D>CONSUMO</D>
+            <D>2843576972</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30003</D>
+            <D>(SP) CONSUMO E SERVIÇOS</D>
+            <D>CONSUMO</D>
+            <D>2870820834</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30004</D>
+            <D>(SP) CONSUMO E SERVIÇOS</D>
+            <D>CONSUMO</D>
+            <D>2870820849</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30005</D>
+            <D>(SP) CONSUMO E SERVIÇOS</D>
+            <D>CONSUMO</D>
+            <D>2870820867</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30006</D>
+            <D>(SP) CONSUMO E SERVIÇOS</D>
+            <D>CONSUMO</D>
+            <D>2870820882</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30007</D>
+            <D>(SP) CONSUMO E SERVIÇOS</D>
+            <D>CONSUMO</D>
+            <D>2870820918</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>80</D>
+            <D>(SP) CONSUMO ST</D>
+            <D>CONSUMO</D>
+            <D>2870820935</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30023</D>
+            <D>Complementar/Ajuste</D>
+            <D>NC</D>
+            <D>5036658926</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>30024</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>94032000</D>
+            <D>5480951384</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10004</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>70161000</D>
+            <D>5994807912</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10005</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>34029090</D>
+            <D>5994807913</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10006</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>72193400</D>
+            <D>5994807914</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10007</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>96020090</D>
+            <D>5994807915</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10008</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>72201210</D>
+            <D>5994807916</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10010</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>38249090</D>
+            <D>5994807917</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10012</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>32149000</D>
+            <D>5994807918</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10014</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>68022100</D>
+            <D>5994807919</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10015</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>39073019</D>
+            <D>5994807920</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10016</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>68021000</D>
+            <D>5994807921</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10018</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69079000</D>
+            <D>5994807922</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10019</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69081000</D>
+            <D>5994807923</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10020</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69089000</D>
+            <D>5994807924</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10025</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>70161000</D>
+            <D>5994807925</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10026</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>72193400</D>
+            <D>5994807926</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10027</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>72201210</D>
+            <D>5994807927</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10028</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>96020090</D>
+            <D>5994807928</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10029</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>32149000</D>
+            <D>5994807929</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10030</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>34029090</D>
+            <D>5994807930</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10031</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>38249090</D>
+            <D>5994807931</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10032</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>39073019</D>
+            <D>5994807932</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10033</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>68021000</D>
+            <D>5994807933</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10034</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>68022100</D>
+            <D>5994807934</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10035</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69079000</D>
+            <D>5994807935</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10036</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69081000</D>
+            <D>5994807936</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10037</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69089000</D>
+            <D>5994807937</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10062</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>39100030</D>
+            <D>5994807938</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10063</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>68109900</D>
+            <D>5994807939</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10065</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69071000</D>
+            <D>5994807940</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10066</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>39269090</D>
+            <D>5994807941</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10067</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>82032010</D>
+            <D>5994807942</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10068</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69071000</D>
+            <D>5994807943</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10069</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69041000</D>
+            <D>5994807944</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10070</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>68109900</D>
+            <D>5994807945</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10071</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>39269090</D>
+            <D>5994807946</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10072</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>82032010</D>
+            <D>5994807947</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10073</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>39100030</D>
+            <D>5994807948</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10080</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69059000</D>
+            <D>5994807949</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10101</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>44209000</D>
+            <D>5994807950</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10102</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>44209000</D>
+            <D>5994807951</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10118</D><D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69059000</D>
+            <D>5994807952</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>10121</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69041000</D>
+            <D>5994807953</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>11767</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>68022900</D>
+            <D>5994808123</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>11768</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>68022900</D>
+            <D>5994808124</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>11811</D>
+            <D>(SP) - NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>94036000</D>
+            <D>5994808134</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>11818</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>49111090</D>
+            <D>5994808135</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>11842</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>33029090</D>
+            <D>5994808140</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12127</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>68101900</D>
+            <D>5994808152</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12128</D>
+            <D>(SP) - NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>68101900</D>
+            <D>5994808153</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12302</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>34029039</D>
+            <D>5994808159</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12303</D>
+            <D>(SP) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>38249041</D>
+            <D>5994808160</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12304</D>
+            <D>(SP) - IMPORTADOS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>34029039</D>
+            <D>5994808161</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12305</D>
+            <D>(SP) - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>38249041</D>
+            <D>5994808162</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12414</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>94036000</D>
+            <D>5994808175</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12471</D>
+            <D>(SP)- NACIONAL- TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>48219000</D>
+            <D>5994808177</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12472</D>
+            <D>(SP) NACIONAL- SUBSTITUICAO TRIBUTARIA- LUCRO REAL</D>
+            <D>69089000</D>
+            <D>5994808178</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12473</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>48171000</D>
+            <D>5994808179</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12474</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>49111090</D>
+            <D>5994808180</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>12476</D>
+            <D>(SP) NACIONAL- TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>39203000</D>
+            <D>5994808181</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13176</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69072400</D>
+            <D>5994808198</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13177</D>
+            <D>(SP) - IMPORTADO - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69072400</D>
+            <D>5994808199</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13233</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69072100</D>
+            <D>5994808214</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13234</D>
+            <D>(SP- IMPORTADO - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69072100</D>
+            <D>5994808215</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13288</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69072200</D>
+            <D>5994808230</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13289</D>
+            <D>(SP- IMPORTADO - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69072200</D>
+            <D>5994808231</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13340</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69072300</D>
+            <D>5994808245</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13341</D>
+            <D>(SP- IMPORTADO - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69072300</D>
+            <D>5994808246</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13394</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>6907300</D>
+            <D>5994808260</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13395</D>
+            <D>(SP- IMPORTADO - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69073000</D>
+            <D>5994808261</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13449</D>
+            <D>(SP) - NACIONAIS - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69074000</D>
+            <D>5994808276</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13450</D>
+            <D>(SP- IMPORTADO - ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>69074000</D>
+            <D>5994808277</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13489</D>
+            <D>SP - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>38249941</D>
+            <D>5994808278</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13490</D>
+            <D>SP - IMPORTADOS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>38249941</D>
+            <D>5994808279</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13536</D>
+            <D>(SP) IMPORTADO - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>69101000</D>
+            <D>5994808284</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13537</D>
+            <D>(SP) NACIONAL - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>39222000</D>
+            <D>5994808285</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13736</D>
+            <D>(SP) NACIONAL- TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>94039010</D>
+            <D>5994808353</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13880</D>
+            <D>(SP) - NACIONAL- SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>39173229</D>
+            <D>5994808364</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13881</D>
+            <D>(SP) - NACIONAL- SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>74182000</D>
+            <D>5994808365</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13882</D>
+            <D>(SP) - NACIONAL- SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>84818011</D>
+            <D>5994808366</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13883</D>
+            <D>(SP) - NACIONAL- SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>84818019</D>
+            <D>5994808367</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13884</D>
+            <D>(SP) - NACIONAL- SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>84819090</D>
+            <D>5994808368</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13887</D>
+            <D>(SP) - IMPORTADO - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>74182000</D>
+            <D>5994808371</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13944</D>
+            <D>(SP) - IMPORTADO- SUBSTITUIÇÃO TRIBUTARIA -LUCRO REAL</D>
+            <D>84818011</D>
+            <D>5994808383</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13947</D>
+            <D>(SP) - IMPORTADO- SUBSTITUIÇÃO TRIBUTARIA -LUCRO REAL</D>
+            <D>84818019</D>
+            <D>5994808385</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13955</D>
+            <D>(SP) - IMPORTADO- SUBSTITUIÇÃO TRIBUTARIA -LUCRO REAL</D>
+            <D>84819090</D>
+            <D>5994808388</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13993</D>
+            <D>(SP) NACIONAL- SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>73089010</D>
+            <D>5994808392</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>13997</D>
+            <D>(SP) - NACIONAL- TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>73089090</D>
+            <D>5994808394</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14000</D>
+            <D>(SP)- NACIONAL - SUBSTITUICAO TRIBUTARIA- LUCRO REAL</D>
+            <D>76109000</D>
+            <D>5994808397</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14008</D>
+            <D>(SP)  NACIONAL - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>84818091</D>
+            <D>5994808399</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14009</D>
+            <D>(SP)  NACIONAL - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>39221000</D>
+            <D>5994808400</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14010</D>
+            <D>(SP)  NACIONAL - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>39249000</D>
+            <D>5994808401</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14011</D>
+            <D>(SP)  NACIONAL - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>73249000</D>
+            <D>5994808402</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14041</D>
+            <D>(SP) NACIONAL- SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>69101000</D>
+            <D>5994808431</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14089</D>
+            <D>(SP) IMPORTADO - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>76109000</D>
+            <D>5994808433</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14092</D>
+            <D>(SP) IMPORTADO - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>73089010</D>
+            <D>5994808435</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14125</D>
+            <D>SP IMPORTADO - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>69109000</D>
+            <D>5994808445</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14126</D>
+            <D>(SP) NACIONAL - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>69109000</D>
+            <D>5994808446</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14134</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>44199000</D>
+            <D>5994808447</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14149</D>
+            <D>(SP) NACIONAL - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>69111090</D>
+            <D>5994808454</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14157</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE- LUCRO REAL</D>
+            <D>69119000</D>
+            <D>5994808458</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14165</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>69139000</D>
+            <D>5994808462</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14172</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>69149000</D>
+            <D>5994808466</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14189</D>
+            <D>SP - IMPORTADO- ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>84818091</D>
+            <D>5994808473</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14200</D>
+            <D>SP- IMPORTADO- ICMS SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>39249000</D>
+            <D>5994808478</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14207</D>
+            <D>(SP) IMPORTADO- SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>39222000</D>
+            <D>5994808481</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14243</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>44111210</D>
+            <D>5994808491</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14277</D>
+            <D>(SP) IMPORTADO - SUBSTITUICAO TRIBUTARIA - LUCRO REAL</D>
+            <D>73249000</D>
+            <D>5994808502</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14466</D>
+            <D>(RJ) - NACIONAIS - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>33029090</D>
+            <D>5994808564</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14603</D>
+            <D>(SP)  NACIONAL - SUBSTITUICAO TRIBUTARIA- LUCRO REAL</D>
+            <D>94032000</D>
+            <D>5994808628</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14627</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>83025000</D>
+            <D>5994808634</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14636</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>85167990</D>
+            <D>5994808637</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14642</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>83079000</D>
+            <D>5994808639</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14655</D>
+            <D>(SP) NACIONAL - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>40169300</D>
+            <D>5994808643</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14664</D>
+            <D>(SP) NACIONAL - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>73261900</D>
+            <D>5994808646</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14673</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>39229000</D>
+            <D>5994808649</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14682</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>84219999</D>
+            <D>5994808652</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14690</D>
+            <D>(SP) NACIONAL -TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>39174090</D>
+            <D>5994808654</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14705</D>
+            <D>(SP) NACIONAL - SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>74122000</D>
+            <D>5994808658</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14709</D>
+            <D>(SP) NACIONAL - SUBSTITUIÇÃO TRIBUTARIA  - LUCRO REAL</D>
+            <D>84819010</D>
+            <D>5994808660</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14718</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>84818092</D>
+            <D>5994808663</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14727</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>84813000</D>
+            <D>5994808666</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14736</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>84818095</D>
+            <D>5994808669</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14745</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO RAL</D>
+            <D>84818099</D>
+            <D>5994808672</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14757</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>73202090</D>
+            <D>5994808676</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14766</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTÁRIA - LUCRO REAL</D>
+            <D>74153300</D>
+            <D>5994808679</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14775</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>84818094</D>
+            <D>5994808682</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14784</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>82041100</D>
+            <D>5994808685</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14873</D>
+            <D>(SP) NACIONAIS - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>73269090</D>
+            <D>5994808692</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>14966</D>
+            <D>(SP) NACIONAL - TRIBUTADO INTEGRALMENTE - LUCRO REAL</D>
+            <D>38122000</D>
+            <D>5994808698</D>
+        </R>
+        <R>
+            <D>2926</D>
+            <D>05800000000012</D>
+            <D>15039</D>
+            <D>(SP) NACIONAL - SUBSTITUIÇÃO TRIBUTARIA - LUCRO REAL</D>
+            <D>84818093</D>
+            <D>5994808703</D>
+        </R>
+    </ResponseData>
+    <ResponseResult>
+        <ResponseSuccess>True</ResponseSuccess>
+    </ResponseResult>
+</Microvix>
