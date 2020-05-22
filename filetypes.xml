@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="sqlite3" type="DBN-SQL" />
       <removed_mapping ext="app" type="Erlang/OTP app" />
-      <removed_mapping ext="ini" type="Ini" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="anotacoes" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
@@ -17,9 +16,6 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="app" type="Erlang/OTP app" />
-      <removed_mapping ext="ini" type="Ini" />
     </extensionMap>
   </component>
 </application>
