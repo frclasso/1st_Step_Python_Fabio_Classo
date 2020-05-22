@@ -1,9 +1,11 @@
 Programa my_software
 ---------------------
 
- ###Estrutura
+### Estrutura
  - main
  - my_software
+ 
+------------------------------------- 
     
     
 ##### main - executor do programa   
