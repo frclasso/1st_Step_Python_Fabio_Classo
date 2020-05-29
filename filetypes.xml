@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="sqlite3" type="DBN-SQL" />
-      <removed_mapping ext="app" type="Erlang/OTP app" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="anotacoes" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
