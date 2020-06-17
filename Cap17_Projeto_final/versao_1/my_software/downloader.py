@@ -7,6 +7,11 @@
 
 def cria_diretorio_saida():
     """Essa funcao cria um diretorio"""
+
+    teste = '==> Modulo importado com sucesso'
+    return teste
+
+
     # use os.mnkdir para criar um diretorio
 
     # return path( o caminho para salvar o arquivo)
@@ -24,4 +29,7 @@ def get_file(url, diretorio):
     # diretorio_de_destino = cria_deretorio_saida()
     # for dirpath, dirnames, files in os.walk('diretorio_de_destino'):
         # with open ...
-    pass
+
+
+    teste = '==> Modulo importado com sucesso'
+    return teste

@@ -15,3 +15,7 @@ Programa my_software
  - downloader (faz download e escreve localmente)
  - field_validator (valida os campos)
  - filter (filtra dados)
+ 
+ 
+#### URL do Arquivo 
+- https://f001.backblazeb2.com/file/Datasets-gurus/clientes_autalizado.py

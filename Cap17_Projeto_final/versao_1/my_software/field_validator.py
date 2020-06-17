@@ -6,28 +6,37 @@
 """
 
 
-def get_file():
+def get_file_local():
     """Essa funcao obtem o arquivo local"""
     # user os.walk para navegar ate a pasta do arquivo a ser validado
     # return arquivo
+    teste = '==> Modulo importado com sucesso'
+    return teste
 
 
 def get_uma_linha(arquivo):
     """Recebe uma linha"""
     #return linha
 
+    teste = '==> Modulo importado com sucesso'
+    return teste
+
 
 def get_email(inha):
-    pass
+
+    teste = '==> Modulo importado com sucesso'
+    return teste
 
 
 def valida_telefone():
-    pass
+    teste = '==> Modulo importado com sucesso'
+    return teste
 
 
 def valida_data():
     """Valida o campo data, sem hora"""
-    pass
+    teste = '==> Modulo importado com sucesso'
+    return teste
 
 
 def cliente_valido(linha):
@@ -35,13 +44,16 @@ def cliente_valido(linha):
     #telefone
     #data
     # return cliente
-    pass
+    teste = '==> Modulo importado com sucesso'
+    return teste
 
 
 def cria_diretorio_de_saida():
     """Cria um diretorio onde sera gravado o arquivo valido"""
     # usar os.mkdir
     # return path
+    teste = '==> Modulo importado com sucesso'
+    return teste
 
 
 def validador():
@@ -53,5 +65,6 @@ def validador():
     # diretorio_de_destino = cria_deretorio_saida()
     # for dirpath, dirnames, files in os.walk('diretorio_de_destino'):
         # with open ...
-    pass
+    teste = '==> Modulo importado com sucesso'
+    return teste
 
