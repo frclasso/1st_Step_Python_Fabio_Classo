@@ -262,7 +262,14 @@ ATIVIDADES/menu_project/clientes.csv
 _mac
 bin
 filetypes
+filetypes/*
 include
+include/*
 inspection
+inspection/*
 *.xml
 .idea
+.idea/*
+codestyles/*
+_mac/
+_mac
