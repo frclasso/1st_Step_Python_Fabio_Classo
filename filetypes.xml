@@ -4,6 +4,7 @@
       <mapping ext="sqlite3" type="DBN-SQL" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="anotacoes" type="PLAIN_TEXT" />
+      <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="calc.py" type="PLAIN_TEXT" />
