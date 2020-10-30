@@ -16,6 +16,7 @@
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="DBN-SQL" />
     </extensionMap>
   </component>
