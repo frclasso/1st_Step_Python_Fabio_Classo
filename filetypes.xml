@@ -18,6 +18,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="SQL" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <mapping ext="sqlite3" type="DBN-SQL" />
     </extensionMap>
