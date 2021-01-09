@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Gherkin" type="AUTO_DETECTED" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="calc.py" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
@@ -17,8 +18,9 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="SQL" />
+      <removed_mapping ext="feature" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <mapping ext="sqlite3" type="DBN-SQL" />
     </extensionMap>
