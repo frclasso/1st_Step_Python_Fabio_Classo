@@ -36,6 +36,7 @@
         <option value="flask_sqlalchemy.SQLAlchemy.ForeignKey" />
         <option value="super.dispatch" />
         <option value="super.form_valid" />
+        <option value="backend.intexfyInternalPlatform.src.db.database.dynaconf" />
       </list>
     </option>
   </inspection_tool>
