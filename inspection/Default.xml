@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="15">
+        <list size="20">
           <item index="0" class="java.lang.String" itemvalue="Python" />
           <item index="1" class="java.lang.String" itemvalue="Django" />
           <item index="2" class="java.lang.String" itemvalue="djangorestframework" />
@@ -20,6 +20,11 @@
           <item index="12" class="java.lang.String" itemvalue="requests" />
           <item index="13" class="java.lang.String" itemvalue="pandas" />
           <item index="14" class="java.lang.String" itemvalue="pytz" />
+          <item index="15" class="java.lang.String" itemvalue="flaskrestframework" />
+          <item index="16" class="java.lang.String" itemvalue="aniso8601" />
+          <item index="17" class="java.lang.String" itemvalue="flask-sqlalchemy" />
+          <item index="18" class="java.lang.String" itemvalue="flask-restful" />
+          <item index="19" class="java.lang.String" itemvalue="flask" />
         </list>
       </value>
     </option>
