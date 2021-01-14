@@ -18,6 +18,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="SQL" />
       <removed_mapping ext="feature" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
