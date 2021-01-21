@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Gherkin" type="AUTO_DETECTED" />
+      <removed_mapping ext="app" type="Erlang/OTP app" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="calc.py" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
@@ -12,16 +13,20 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="o" type="PLAIN_TEXT" />
-      <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="o" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="SQL" />
+      <removed_mapping ext="config" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="feature" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="XML" />
+      <removed_mapping ext="permissionset" approved="true" type="XML" />
+      <removed_mapping ext="profile" approved="true" type="XML" />
+      <removed_mapping ext="tab" approved="true" type="XML" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <mapping ext="sqlite3" type="DBN-SQL" />
     </extensionMap>
