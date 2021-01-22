@@ -12,6 +12,7 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
+      <mapping ext="config " type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
