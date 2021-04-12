@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="configs" type="AUTO_DETECTED" />
       <mapping pattern="Gherkin" type="AUTO_DETECTED" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="calc.py" type="PLAIN_TEXT" />
