@@ -13,3 +13,8 @@ print(int(3.14159)) # converte float em int usando a funcao interna 'int'
 print(int(-2.8))
 print(float(3)) # converte int em float, usando a funcao interna 'float'
 print(complex(3)) # converte int em float, usando a funcao interna 'float'
+
+
+# hexadecimal, octal, binario
+
+#print(hex(23))

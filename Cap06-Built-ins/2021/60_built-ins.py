@@ -23,7 +23,7 @@ print(f'id  de tecnologia: {id(tecnologia)}')
 print()
 
 
-# input
+# input()
 nome = input('Digite seu nome: ')
 print(nome)
 
@@ -34,11 +34,11 @@ peso = float(input('Digite seu peso em Kg: '))
 print(peso)
 
 
-# isinstance
+# isinstance()
 companies = ('Audi', 'Tesla', 'Apple')
 print('método isinstance: ',isinstance(companies, tuple))
 
-# len - retorna o tamanho/quantidade de elementos
+# len() - retorna o tamanho/quantidade de elementos, max() e min()
 print('len: ',len('Python'))
 print()
 
@@ -48,7 +48,7 @@ print('max: ', max(x))
 print('min: ', min(x))
 print()
 
-
+# ranage()
 
 # Start
 print('Range')
@@ -65,22 +65,23 @@ print(list(range(0, 30, 5)))
 print()
 
 
-# round
+# round()
 num = 80.26467
 print('round number :',round(num, 2))
 
 
-# abs
+# abs()
 print('Absoluto de um numero')
 print(abs(-45))
 temperature = -2.4
 print(abs(temperature))
 print()
 
+# pow() - potencia
 # x = base, y = exponent
 print(f'3 elevado a 2 = {pow(3,2)}')
 
-# sorted
+# sorted()
 pointsInGame = [0,-10,15,-2,1,12]
 print(sorted(pointsInGame))
 # modo reverso ,lista
@@ -91,7 +92,7 @@ children =['Sue', 'Jerry','Linda', 'Amanda']
 print(sorted(children))
 print()
 
-# enumerate
+# enumerate()
 animals = ('cat', 'dog','rabbit', 'monkey', 'bird')
 for i, v in enumerate(animals):
     print(f'{i}:{v}')

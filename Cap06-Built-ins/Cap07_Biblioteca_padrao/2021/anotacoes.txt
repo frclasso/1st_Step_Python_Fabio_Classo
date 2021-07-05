@@ -1,0 +1,5 @@
+# material de aula
+
+exercicios matematicos
+https://realpython.com/python-math-module/
+https://www.w3resource.com/python-exercises/math/
