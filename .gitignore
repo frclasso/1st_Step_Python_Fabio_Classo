@@ -259,11 +259,12 @@ cap16-arquivos-io/extras2/*.jpg
 cap16-arquivos-io/extras3_excel_files/*.xlsx
 
 ATIVIDADES/menu_project/clientes.csv
-bin/*
-filetypes/*
-include/*
-inspection/*
-*.xml
-idea/*
-codestyles/*
-_mac/
+filetypes
+include
+inspection
+.xml
+.idea
+codestyles
+_mac
+bin
+
