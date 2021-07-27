@@ -1,0 +1,11 @@
+Tecnologia,Criador(es),Ano
+C,Dennis Ritchie,1972
+Java,James Gosling,1995
+Python,Guido van Rossum,1991
+Go,Rob Pike e Ken Thompson,2009
+Pearl,Larry Wall,1987
+PHP,Rasmus Lerdorf,1995
+Ruby,Yukihiro Matsumoto,1995
+JavaScript,Brendan Eich,1995
+C Sharp, Microsoft,2000
+C++,Bjarne Stroustrup,1979

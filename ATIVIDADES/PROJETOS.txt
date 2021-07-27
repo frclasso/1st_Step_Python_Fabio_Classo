@@ -1,0 +1,34 @@
+Projetos a serem desenvolvidos ao longo do curso
+
+**Cap 03,
+**Cap 04,
+    - Tabuada
+    - Calculadora básica
+    - Calculadora científica
+    - calculadora de imc
+    - cadastro de pessoa fisica
+    - inventario / estoque
+    - formulario do curso
+
+**Cap 08 - Numeros
+    - gerador de senhas (random)
+
+**Cap 09 - Strings
+    - criptografia app
+
+
+**Cap 06  - estruturas de decisão
+    - menu de restaurante
+
+**Cap 15 Módulos
+**Cap 16 Arquivos
+    - backup de arquivos
+    - manipulador de imagens
+    - leitor de arquivos
+    - leitor de diretorios
+    - gerador de html
+
+-------------------------------------
+* criar funções
+* salvar resultados externamente
+* criar interface GUI
