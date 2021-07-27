@@ -183,6 +183,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+_mac
 
 # Spyder project settings
 .spyderproject
@@ -232,6 +233,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+# FILES
 *.csv
 *.xlsx
 *.xls
@@ -246,6 +249,23 @@ Temporary Items
 *.mp3
 *.xml
 
+
+dbnavigator.xml
+dbnavigator.xsd 
+editor.xml 
+filetypes.xml 
+find.xml
+illuminatedCloud.xml
+javaeeExternalResources.xml 
+log_highlighting.xml
+notifications.xml
+perl5.xml
+rainbow_brackets.xml 
+studioSettings.xml
+ui.lnf.xml 
+usageView.xml
+vcs.xml
+web-browsers.xml
 
 #Datasets
 Cap19-Extras/*.hf5
