@@ -1,6 +1,7 @@
 # Dos inúmeros módulos da biblioteca padrao, escolhi o móduto matemático (Math) pela
 # grande utilização em nosso dia a dia.
 
+
 import math
 
 #print(dir(math))
@@ -50,3 +51,8 @@ Convert angle x from radians to degrees."""
 print("Degrees")
 print("Degrees 0.05235987755982989  ==> {:.1f}".format(math.degrees(0.05235987755982989)))
 print("Degrees -0.05235987755982989  ==> {:.1f}".format(math.degrees(-0.05235987755982989)))
+
+
+
+# https://docs.python.org/3/library/index.html
+# https://realpython.com/python-math-module/
