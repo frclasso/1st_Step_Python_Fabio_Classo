@@ -1,0 +1,8 @@
+,countries,drives_right,car_per_cap,name_length,COUNTRIES
+US,Unitesd States,True,809,14.0,UNITESD STATES
+AUS,Autralia,False,731,8.0,AUTRALIA
+JAP,Japan,False,588,5.0,JAPAN
+IN,India,False,18,5.0,INDIA
+RU,Russia,True,200,6.0,RUSSIA
+MOR,Marroco,True,70,7.0,MARROCO
+EG,Egypt,True,45,5.0,EGYPT
