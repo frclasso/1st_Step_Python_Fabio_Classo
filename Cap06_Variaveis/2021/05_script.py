@@ -18,7 +18,7 @@ user_ids.add(1236)
 user_ids.add(1236)
 user_ids.add(1236)
 user_ids.add(1236)
-user_ids.pop()
+user_ids.pop()  # or remove
 print(user_ids)
 
 user_ids =[1234, 1235, 1236, 1234]
@@ -31,14 +31,17 @@ print(user_ids)
 num_1 = {1,2,3,4,5}
 num_2 = {10,20,30,40,50, 5}
 
+# uniao
 print(num_1.union(num_2))
-print(num_1 | num_2)# uniao
+print(num_1 | num_2)
 
-print(num_1 & num_2) #intersecao
+#intersecao
+print(num_1 & num_2) 
 print(num_1.intersection(num_2))
 
+# diferenca
 print(num_1.difference(num_2))
-print(num_1 - num_2) # diferenca
+print(num_1 - num_2) 
 
 s = list(num_1)
 print(s[0])
