@@ -1,0 +1,51 @@
+lista_de_clientes = [
+      ['Parker', 'Peter', 44,'M','045045045', '454545-0',99998888,'MasterCard', 12345-0, '10/19', 215],
+      ['Wayne', 'Bruce', 28,'F','345665045', '454545-0',99998888,'VISA', 12345-0, '10/19', 215],
+      ['Jackson', 'Michael', 39,'M','045045045', '454545-0',99998888,'Nubank', 12345-0, '10/19', 215],
+      ['Shorter', 'Wayne', 37,'M','045045045', '454545-0',99998888,'PayPal', 12345-0, '10/19', 215],
+      ['Trump', 'Donald', 46,'M','045045045', '454545-0',99998888,'Credicard', 12345-0, '10/19', 215],
+      ['Schuwazenerger', 'Arnold', 42,'M','045045045', '454545-0',99998888,'Elo', 12345-0, '10/19', 215],
+      ['Marley', 'Bob', 40,'F','045045045', '454545-0',99998888,'American Express', 12345-0, '10/19', 215],
+      ['Martino', 'Pat', 74,'M','045045045', '454545-0',99998888,'Dinners Club', 12345-0, '10/19', 215]
+]
+
+
+dicionario_clientes = {
+      '11223344':['Parker', 'Peter', 44,'M','045045045',99998888,'MasterCard', 12345-0, '10/19', 215],
+      '22112233':['Wayne', 'Bruce', 28,'F','345665045',99998888,'VISA', 12345-0, '10/19', 215],
+      '33221122':['Jackson', 'Michael', 39,'M','045045045',99998888,'Nubank', 12345-0, '10/19', 215],
+      '44332211':['Shorter', 'Wayne', 37,'M','045045045',99998888,'PayPal', 12345-0, '10/19', 215],
+      '55443322':['Trump', 'Donald', 46,'M','045045045',99998888,'Credicard', 12345-0, '10/19', 215],
+      '66554433':['Schuwazenerger', 'Arnold', 42,'M','045045045',99998888,'Elo', 12345-0, '10/19', 215],
+      '77665566':['Marley', 'Bob', 40,'F','045045045',99998888,'American Express', 12345-0, '10/19', 215],
+      '88665577':['Martino', 'Pat', 74,'M','045045045',99998888,'Dinners Club', 12345-0, '10/19', 215]
+}
+
+
+id_clientes = [
+      ('22112233', {'sobrenome':'Parker', 'nome':'Peter', 'idade':44,'sexo':'M', 'cpf':'045045045', 'telefone':9999888,
+                    'cartaoCredito':'MasterCard', 'numeroCartao':'12345-0', 'dataValidade':'10/19',
+                    'codigoSeguranca':215}),
+
+      ('23112233', {'sobrenome':'Wayne','nome':'Bruce','idade':28,'sexo':'F','cpf':'345665045','telefone':99998888,
+                     'cartaoCredito':'VISA', 'numeroCartao':'12345-0','dataValidade':'10/19','codigoSeguranca':215}),
+
+      ('33221122', {'sobrenome':'Jackson','nome':'Michael','idade':39,'sexo':'M','cpf':'045045045','telefone':99998888,
+                    'cartaoCredito':'Nubank','numeroCarato':'12345-0', 'dataVailidade':'10/19','codigoseguranca' :215}),
+
+      ('44332211',{'sobrenome':'Shorter','nome':'Wayne','idade':37,'sexo':'M','cpf':'045045045','telefone':99998888,
+                   'cartaoCredito':'PayPal','numeroCartao':'12345-0','dataValidade':'10/19','codigoSeguranca':215}),
+
+      ('55443322',{'sobrenome':'Trump','nome':'Donald','idade':46,'sexo':'M','cpf':'045045045','telefone':99998888,
+                   'cartaoCredito':'Credicard','numeroCartao':'12345-0','dataValidade':'10/19','codigoSeguranca':215}),
+
+      ('66554433',{'sobrenome':'Schuwazenerger','nome':'Arnold','idade':42,'sexo':'M','cpf':'045045045','telefone':99998888,
+                   'cartaoCredito':'Elo','numeroCartao':'12345-0', 'dataValidade':'10/19','codigoSeguranca' :215}),
+
+      ( '77665566',{'sobrenome':'Marley','nome':'Bob','idade':40,'sexo':'F','cpf':'045045045','telefone':99998888,
+                    'cartaoCredito':'American Express','numeroCartao':'12345-0', 'dataValidade':'10/19','codigoSeguranca':215}),
+
+      ('88665577',{'sobrenome':'Martino','nome':'Pat','idade':74,'sexo':'M','cpf':'045045045','telefone':99998888,
+                   'cartaoCredito':'Dinners Club', 'numeroCartao':'12345-0', 'dataValidade':'10/19','codigoSeguranca':215})
+
+]

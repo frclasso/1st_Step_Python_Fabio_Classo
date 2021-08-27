@@ -39,7 +39,7 @@ germany_companies = [
     'August Storck','Consumer goods','Food products','Berlin',1903,'Confectionery',
     'Aurubis','Basic materials','Nonferrous metals']
 
-    germany_companies_2 = [
+germany_companies_2 = [
 
     ['A. Lange & Söhne', 'Consumer goods','Clothing & accessories','Glashütte',1845,'Watches'],
     ['Aareal Bank','Financials','Banks','Wiesbaden',1922,'Banking and financial services'],

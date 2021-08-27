@@ -27,11 +27,11 @@ clientes = {
 #
 # print()
 
-print(clientes['33221122'][0])
+# print(clientes['33221122'][0])
 
 # Loop aninhado, exibindo apenas os nomes
-# for c in clientes.items():
-#     for nome in c[1][0].split():
-#         print('Cliente:',nome)
+for c in clientes.items():
+    for nome in c[1][0].split():
+        print('Cliente:',nome)
 
 

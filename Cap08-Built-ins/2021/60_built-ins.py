@@ -38,14 +38,17 @@ print(peso)
 companies = ('Audi', 'Tesla', 'Apple')
 print('método isinstance: ',isinstance(companies, tuple))
 
-# len() - retorna o tamanho/quantidade de elementos, max() e min()
+# len() - retorna o tamanho/quantidade de elementos
 print('len: ',len('Python'))
 print()
 
-x = (1,2,3,4,5)
-print('len de x: ', len(x))
-print('max: ', max(x))
-print('min: ', min(x))
+
+# max, min, sum
+numbers = (10,20,30,40,50)
+print('len de x: ', len(numbers))
+print('max: ', max(numbers))
+print('min: ', min(numbers))
+print('Sum: ',sum(numbers))
 print()
 
 # ranage()
@@ -90,9 +93,12 @@ print(sorted(pointsInGame, reverse=True))
 # Ordem alfabetica
 children =['Sue', 'Jerry','Linda', 'Amanda']
 print(sorted(children))
+
+
 print()
 
 # enumerate()
 animals = ('cat', 'dog','rabbit', 'monkey', 'bird')
 for i, v in enumerate(animals):
     print(f'{i}:{v}')
+
