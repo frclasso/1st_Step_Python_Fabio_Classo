@@ -17,10 +17,12 @@ def get_estoque():
         #print(keys)    
         #print(values)    
         estoque = dict(zip(keys, values))
+        #estoque = sorted(dict(zip(keys, values)))  # FALAR DO SORTED
+        
         #print(estoque)
         return estoque 
 
-#print(get_estoque())
+print(get_estoque())
 
 # 1
 def verifica_qtd_instrumento_em_estoque(instrumento):
