@@ -184,6 +184,7 @@ ENV/
 env.bak/
 venv.bak/
 _mac
+Scripts
 
 # Spyder project settings
 .spyderproject
