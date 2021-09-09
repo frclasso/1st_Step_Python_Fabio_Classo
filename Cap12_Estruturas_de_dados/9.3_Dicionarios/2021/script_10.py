@@ -10,7 +10,7 @@ intrumentos = {
     'teclado': 84,
     'lira': 25,
     'trumpete': 55
-    }
+}
 
 # DESORDENADO
 print(intrumentos)

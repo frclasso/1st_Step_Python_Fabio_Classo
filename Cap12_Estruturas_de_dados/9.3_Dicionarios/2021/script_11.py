@@ -16,6 +16,7 @@ def read_json_data():
 read_json_data()
 
 def add_new_skills(skill):
+	"""Adiciona uma nova skill ao profisisonal"""
 	with open("developer.json", "r") as read_file:
 		developer = json.load(read_file)
 		print(developer['skills'])
@@ -23,11 +24,13 @@ def add_new_skills(skill):
 		developer['skills'].append('Python')
 		print(developer['skills'])
 		return(developer)
+
 add_new_skills('python')
 
 
 def save_data(data):
 	with open("developer_updated.json", "w") as  write_file:
-		 json.dump(data, write_file, indent=4)
+		 json.dump(data, write_file)
+		 #json.dump(data, write_file, indent=4)
 
 save_data(add_new_skills("Python"))

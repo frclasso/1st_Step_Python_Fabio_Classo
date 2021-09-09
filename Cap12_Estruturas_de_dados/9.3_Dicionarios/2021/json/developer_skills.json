@@ -1,0 +1,1 @@
+"{\n    \"name\": \"jane doe\",\n    \"salary\": 9000,\n    \"skills\": [\n        \"Raspberry pi\",\n        \"Machine Learning\",\n        \"Web Development\",\n        \"Python\"\n    ],\n    \"email\": \"JaneDoe@pynative.com\",\n    \"projects\": [\n        \"Python Data Mining\",\n        \"Python Data Science\"\n    ]\n}"

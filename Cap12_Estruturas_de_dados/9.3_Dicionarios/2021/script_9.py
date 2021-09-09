@@ -90,10 +90,12 @@ def entrada_no_estoque(**kwargs):
     # for k, v in estoque.items():
     #     print(k, v)
     entrada = kwargs.items()
+    print("ENTRADA")
+    print(entrada)
     # print(type(entrada))
     #print(dict(entrada))
     key = dict(entrada)
-    #print(key)
+    print(key)
     for k, v in key.items():
         #print(k, v)
         if k in estoque:
@@ -107,7 +109,7 @@ def entrada_no_estoque(**kwargs):
     return estoque
 
 
-#print(entrada_no_estoque(piano = 24, flauta = 10))
+print(entrada_no_estoque(piano = 24, flauta = 10))
 
 def insere_novo_produto_no_catalogo(produto, qtd=None):
 

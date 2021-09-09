@@ -1,2 +1,0 @@
-sobrenome,Classo,nome,Fabio,idade,44,sexo,M,cpf,045045045,telefone,9999888,cartaoCredito,MasterCard,numeroCartao,12345-0,dataValidade,10/19,codigoSeguranca,215,
-sobrenome,Classo,nome,Fabio,idade,44,sexo,M,cpf,045045045,telefone,9999888,cartaoCredito,MasterCard,numeroCartao,12345-0,dataValidade,10/19,codigoSeguranca,215,
